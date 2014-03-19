@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.2.8)  14 MAR 2014 21:54
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.2.8)  19 MAR 2014 01:10
 entering extended mode
 **Principal.tex
 
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\Princip
-al.tex"
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\Pri
+ncipal.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -571,11 +571,12 @@ Sidefootvsep and sidefootheight: 14.5pt and 590.14995pt
 \ABNTEXsignthickness=\skip194
 \ABNTEXsignskip=\skip195
 )
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\styles/
-CodeStyle.sty" ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty
-"
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\sty
+les/CodeStyle.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
 Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 130.
@@ -611,17 +612,18 @@ Package: listings 2013/08/26 1.5b (Carsten Heinz)
 Package color Info: Redefining color blue on input line 5.
 Package color Info: Redefining color cyan on input line 9.
 )
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\styles/
-EventFlowStyle.sty"
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\sty
+les/EventFlowStyle.sty"
 \c@tablecell=\count173
 )
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\styles/
-NuapaStyle.sty" ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty
-"
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\sty
+les/NuapaStyle.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks25
 \inpenc@posthook=\toks26
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\utf8.def"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\utf8.def"
 File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
@@ -979,12 +981,14 @@ Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 \cftquadroindent=\skip202
 \cftquadronumwidth=\skip203
 
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\editave
-is/00_Dados.tex")
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\edi
+taveis/00_Dados.tex")
 Package hyperref Info: Option `colorlinks' set `true' on input line 256.
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ms\ragged2e.sty"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ms\ragged2e.sty"
 Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ms\everysel.sty"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ms\everysel.sty"
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
 \CenteringLeftskip=\skip204
@@ -1002,10 +1006,10 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 \RaggedRightParindent=\skip216
 \JustifyingParindent=\skip217
 ))
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\Princip
-al.aux"
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\fixos/0
-1_Capa.aux"))
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\Pri
+ncipal.aux"
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\fix
+os/01_Capa.aux"))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
@@ -1026,8 +1030,7 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
 \AtBeginShipoutBox=\box33
 Package hyperref Info: Link coloring ON on input line 10.
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
@@ -1104,8 +1107,8 @@ Package caption Info: End \AtBeginDocument code.
 ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 10.
 
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\fixos/0
-1_Capa.tex"
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\fix
+os/01_Capa.tex"
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 36.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
@@ -1143,9 +1146,9 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
 
 
 {C:/Users/Israel Cunha/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}])
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\fixos/0
-2_FolhaRosto.tex"pdfTeX warning (ext4): destination with the same identifier (n
-ame{page.1}) has been already used, duplicate ignored
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\fix
+os/02_FolhaRosto.tex"pdfTeX warning (ext4): destination with the same identifie
+r (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.35 \imprimirfolhaderosto*{}
@@ -1155,8 +1158,8 @@ l.35 \imprimirfolhaderosto*{}
 
 
 ])
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\fixos/0
-3_FichaCatalografica.tex"
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\fix
+os/03_FichaCatalografica.tex"
 Underfull \hbox (badness 10000) in paragraph at lines 24--24
 
  []
@@ -1188,8 +1191,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--24
  []
 
 [2])
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\fixos/0
-4_FolhaAprovacao.tex"
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\fix
+os/04_FolhaAprovacao.tex"
 Underfull \hbox (badness 10000) in paragraph at lines 15--16
 
  []
@@ -1197,12 +1200,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--16
 [3
 
 ])
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\editave
-is/05_Dedicatoria.tex" [4
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\edi
+taveis/05_Dedicatoria.tex" [4
 
 ])
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\editave
-is/06_Agradecimentos.tex"
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\edi
+taveis/06_Agradecimentos.tex"
 Underfull \hbox (badness 10000) in paragraph at lines 3--6
 
  []
@@ -1211,60 +1214,61 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--6
 
 
 ])
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\editave
-is/07_Epigrafe.tex" [6
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\edi
+taveis/07_Epigrafe.tex" [6
 
 ])
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\editave
-is/08_Resumo.tex" [7
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\edi
+taveis/08_Resumo.tex" [7
 
 ])
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\editave
-is/09_Abstract.tex" [8
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\edi
+taveis/09_Abstract.tex" [8
 
 ])
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\fixos/0
-A_ListasAutomaticas.tex"
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\Princip
-al.lof") [9
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\fix
+os/0A_ListasAutomaticas.tex"
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\Pri
+ncipal.lof") [9
 
 ]
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\Princip
-al.loq") [10
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\Pri
+ncipal.loq") [10
 
 ]
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\Princip
-al.lot") [11
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\Pri
+ncipal.lot") [11
 
 ]
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\Princip
-al.lol"
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\Pri
+ncipal.lol"
 LaTeX Font Info:    Try loading font information for T1+lmtt on input line 1.
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\t1lmtt.fd"
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)) [12
+))
+[12
 
 ])
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\editave
-is/0B_Siglas.tex" [13
-
-
-])
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\fixos/0
-C_Sumario.tex"
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\Princip
-al.toc") [14
-
-])
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\editave
-is/10_Introducao.tex")
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\editave
-is/Objetivos.tex" [15
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\edi
+taveis/0B_Siglas.tex" [13
 
 
 ])
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\editave
-is/Justificativas.tex" [16
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\fix
+os/0C_Sumario.tex"
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\Pri
+ncipal.toc") [14
+
+])
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\edi
+taveis/10_Introducao.tex")
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\edi
+taveis/Objetivos.tex" [15
+
+
+])
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\edi
+taveis/Justificativas.tex" [16
 
 ]
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -1280,8 +1284,8 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
 LaTeX Warning: Citation `dic_aurelio' on page 17 undefined on input line 14.
 
 )
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\editave
-is/11_QuadroTeorico.tex" [17
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\edi
+taveis/11_QuadroTeorico.tex" [17
 
 ]
 
@@ -1378,9 +1382,9 @@ LaTeX Warning: Citation `correa2003plantas' on page 20 undefined on input line
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 )
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\editave
-is/12_QuadroMetodologico.tex" [20 <C:/Users/Israel Cunha/Google Drive/TCC/works
-paceLatex/TCC NUAPA LATEX/imagens/apendice_img1.png>] [21]
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\edi
+taveis/12_QuadroMetodologico.tex" [20 <C:/Users/Israel Cunha/Documents/GitHub/t
+cc/workspaceLatex/TCC NUAPA LATEX/imagens/apendice_img1.png>] [21]
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
 File: lstlang1.sty 2013/08/26 1.5b listings language file
 )
@@ -1389,8 +1393,8 @@ nput line 8.
 LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <10> not available
 (Font)              Font shape `T1/lmtt/b/n' tried instead on input line 9.
 
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\fluxos\
-fluxo-evento-cadastro-filme.tex"
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\flu
+xos\fluxo-evento-cadastro-filme.tex"
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10.95> on input line 1.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
@@ -1398,41 +1402,41 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
 ) [22
 
 ])
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\editave
-is/Cronograma.tex" [23])
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\editave
-is/Orcamentario.tex" [24
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\edi
+taveis/Cronograma.tex" [23])
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\edi
+taveis/Orcamentario.tex" [24
 
 ])
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\editave
-is/13_Resultados.tex" [25
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\edi
+taveis/13_Resultados.tex" [25
 
 ])
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\editave
-is/14_Conclusao.tex" [26
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\edi
+taveis/14_Conclusao.tex" [26
 
 ])
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\Princip
-al.bbl" [27
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\Pri
+ncipal.bbl" [27
 
 ]
 bibitemlist
 )
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\editave
-is/20_Apendices.tex" [28
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\edi
+taveis/20_Apendices.tex" [28
 
 ] [29
 
 ]
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\editave
-is/21_Apendice_01.tex"
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\edi
+taveis/21_Apendice_01.tex"
 File: ./imagens/apendice_img1.png Graphic file (type png)
  <use ./imagens/apendice_img1.png>
 Package pdftex.def Info: ./imagens/apendice_img1.png used on input line 7.
 (pdftex.def)             Requested size: 263.48372pt x 250.93687pt.
 )
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\editave
-is/22_Apendice_02.tex" [30
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\edi
+taveis/22_Apendice_02.tex" [30
 
 ]
 File: ./imagens/apendice_img1.png Graphic file (type png)
@@ -1440,10 +1444,10 @@ File: ./imagens/apendice_img1.png Graphic file (type png)
 Package pdftex.def Info: ./imagens/apendice_img1.png used on input line 8.
 (pdftex.def)             Requested size: 158.09184pt x 150.56366pt.
 ))
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\editave
-is/30_Anexos.tex"
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\editave
-is\31_Anexo_01.tex" [31
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\edi
+taveis/30_Anexos.tex"
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\edi
+taveis\31_Anexo_01.tex" [31
 
 ]))
 No file Principal.ind.
@@ -1468,10 +1472,10 @@ See the caption package documentation for explanation.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 51.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 51.
 
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\Princip
-al.aux"
-("C:\Users\Israel Cunha\Google Drive\TCC\workspaceLatex\TCC NUAPA LATEX\fixos/0
-1_Capa.aux"))
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\Pri
+ncipal.aux"
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\TCC NUAPA LATEX\fix
+os/01_Capa.aux"))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 51.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 51.
 
@@ -1485,8 +1489,8 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 51.
  ) 
 Here is how much of TeX's memory you used:
  14767 strings out of 493921
- 222124 string characters out of 3144856
- 367704 words of memory out of 3000000
+ 222480 string characters out of 3144856
+ 367712 words of memory out of 3000000
  17607 multiletter control sequences out of 15000+200000
  66914 words of font info for 69 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
@@ -1507,7 +1511,7 @@ b><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmtl10.pfb><C:/Progr
 am Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x
 86)/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 
 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Principal.pdf (33 pages, 266767 bytes).
+Output written on Principal.pdf (33 pages, 266800 bytes).
 PDF statistics:
  465 PDF objects out of 1000 (max. 8388607)
  136 named destinations out of 1000 (max. 500000)
