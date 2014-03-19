@@ -1,0 +1,73 @@
+
+@Book{snmp_essencial,  
+  title = 	 {SNMP Essencial},
+  author = 	 {Schmidt, Kevin J. and  Mauro,Douglas R.},
+  publisher = 	 {Rio de Janiero: CAMPUS},
+  year = 	 {2001},
+}
+
+@Book{redes_Tanebaum,
+  author = 	 {Andrew S. Tanenbaum},
+  title = 	 {Redes de Computadores},
+  publisher = 	 {Rio de Janeiro: 2003},
+  year = 	 {2003},
+}
+
+@Book{uml_silva_videira,
+  author = 	 {Alberto Manuel Rodrigues da Silva and Carlos Alberto Escaleira Videira},
+  title = 	 {UML, Metodologia e Ferramentas CASE},
+  publisher = 	 {Publisher},
+  year = 	 {2001},
+}
+
+@Book{redes_Forouzan,
+  author = 	 {Behrouz A. Forouzan},
+  title = 	 {Comunicação de dados e redes de computadores},
+  publisher = 	 {Porto Alegre: Bookman},
+  year = 	 {2006},
+}
+
+% Concertar Nome dos autores
+
+@Book{cientifica_Cribelli,
+  author = 	 {M. C. Ciribelli},
+  title = 	 {Como elaborar uma dissertação de mestrado através da pesquisa científica},
+  publisher = 	 {Rio de Janeiro: 7 LETRAS},
+  year = 	 {2003},
+}
+
+@Book{redes_Java_Costa,
+  author = 	 {D. G. Costa},
+  title = 	 {Java em rede: Recursos avançados de programação},
+  publisher = 	 {Rio de Janeiro: Brasport},
+  year = 	 {2008},
+}
+
+@Book{gerencia_Dinsmore_Cabanis-brewin,
+  author = 	 {P. C. Dismore and J. Cabanis-Brewin},
+  title = 	 {AMA: Manual de Gerenciamento de Projetos},
+  publisher = 	 {Rio de Janeiro: Brasport},
+  year = 	 {2014},
+}
+
+@Book{redes_Mosharraf_Forouzan,
+  author = 	 {B. A. Forouzan and F. Mosharraf},
+  title = 	 {Redes de Computadores - Uma Abordagem Top-Downs},
+  publisher = 	 {Porto Alegre: Bookman},
+  year = 	 {2013},
+}
+
+@Book{cientifica_padua,
+  author = 	 {E. M. M. Padua},
+  title = 	 {Metodologia da pesquisa: Abordagem teórico-prático},
+  publisher = 	 {São Paulo:Papirus},
+  year = 	 {2004},
+}
+
+@Book{cientifica_santos_candeloro,
+  author = 	 {R. J. Candeloro and V. dos Santos},
+  title = 	 {Trabalhos acadêmicos: Uma orientação para a
+pesquisa e normas técnicas},
+  publisher = 	 {Porto Alegre: AGE},
+  year = 	 {2006},
+}

@@ -1,0 +1,32 @@
+
+\titulo{Gerência de rede SMNP}
+
+%autores em ordem alfabéticas
+\autor{Israel José da Cunha \\ fulano}
+\autorCitacao{Cunha, Israel José da }
+\autorCitacaoMaiuscula{Cunha, Israel José da}
+\autorUm{Israel José da Cunha}
+%\autorDois{Israel José da Cunha} 
+
+\data{2014}%ano
+\instituicao{Universidade do Vale do Sapucaí}
+\local{Pouso Alegre -- MG}
+\curso{Sistemas de Informação}
+\tipotrabalho{Trabalho de Conclusão de Curso (graduação)}
+\dataDaAprovacao{         }  %Colocar data da aprovação no final
+
+\palavraChaveUm{SMNP}
+\palavraChaveDois{Redes}
+\palavraChaveTres{Gerência}
+
+\keyWordOne{SMNP}
+\keyWordTwo{Network}
+\keyWordThree{Manager}
+
+%variar as configurações de professora e professor como desejar
+\avaliadorUm{Prof$^a$. MSc. Nome da professora}
+\avaliadorLabelUm{Avaliadoro (a)}
+\avaliadorDois{Prof. MSc. Nome do professor}
+
+\orientador[Orientador]{Prof. MS. Márcio Emílio Cruz Von. Azevedo}
+\preambulo{Trabalho de Conclusão de Curso apresentado como requisto parcial à obtenção do título de Bacharel em Sistemas de Informação na Universidade do Vale do Sapucaí -- UNIVAS.}

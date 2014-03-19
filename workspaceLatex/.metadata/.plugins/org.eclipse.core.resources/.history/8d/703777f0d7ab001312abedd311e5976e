@@ -1,0 +1,29 @@
+
+@Book{snmp_essencial,  
+  title = 	 {SNMP Essencial},
+  author = 	 {Schmidt, Kevin J. and  Mauro,Douglas R.},
+  publisher = 	 {Rio de Janiero: CAMPUS},
+  year = 	 {2001},
+}
+
+@Book{Redes_Tanebaum,
+  author = 	 {Andrew S. Tanenbaum},
+  title = 	 {Redes de Computadores},
+  publisher = 	 {Rio de Janeiro: 2003},
+  year = 	 {2003},
+}
+
+@Book{uml_silva_videira,
+  author = 	 {Alberto Manuel Rodrigues da Silva and Carlos Alberto Escaleira Videira},
+  title = 	 {UML, Metodologia e Ferramentas CASE},
+  publisher = 	 {Publisher},
+  year = 	 {2001},
+}
+
+@Book{Redes_Forouzan,
+  author = 	 {Behrouz A. Forouzan},
+  ALTeditor = 	 {Editor},
+  title = 	 {Title},
+  publisher = 	 {Publisher},
+  year = 	 {2006},
+}

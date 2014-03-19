@@ -1,0 +1,52 @@
+
+@Book{snmp_essencial,  
+  title = 	 {SNMP Essencial},
+  author = 	 {Schmidt, Kevin J. and  Mauro,Douglas R.},
+  publisher = 	 {Rio de Janiero: CAMPUS},
+  year = 	 {2001},
+}
+
+@Book{Redes_Tanebaum,
+  author = 	 {Andrew S. Tanenbaum},
+  title = 	 {Redes de Computadores},
+  publisher = 	 {Rio de Janeiro: 2003},
+  year = 	 {2003},
+}
+
+@Book{uml_silva_videira,
+  author = 	 {Alberto Manuel Rodrigues da Silva and Carlos Alberto Escaleira Videira},
+  title = 	 {UML, Metodologia e Ferramentas CASE},
+  publisher = 	 {Publisher},
+  year = 	 {2001},
+}
+
+@Book{Redes_Forouzan,
+  author = 	 {Behrouz A. Forouzan},
+  title = 	 {Comunicação de dados e redes de computadores},
+  publisher = 	 {Porto Alegre: Bookman},
+  year = 	 {2006},
+}
+
+% Concertar Nome dos autores
+
+@Book{Cientifica_Cribelli,
+  author = 	 {M. C. Ciribelli},
+  title = 	 {Como elaborar uma dissertação de mestrado através da pesquisa científica},
+  publisher = 	 {Rio de Janeiro: 7 LETRAS},
+  year = 	 {2003},
+}
+
+@Book{Redes_Java_Costa,
+  author = 	 {D. G. Costa},
+  title = 	 {Java em rede: Recursos avançados de programação},
+  publisher = 	 {Rio de Janeiro: Brasport},
+  year = 	 {2008},
+}
+
+
+@Book{Gerencia_Dinsmore_Cabanis-brewin,
+  author = 	 {P. C. Dismore and J. Cabanis-Brewin },
+  title = 	 {AMA: Manual de Gerenciamento de Projetos},
+  publisher = 	 {Rio de Janeiro: Brasport},
+  year = 	 {2014},
+}
