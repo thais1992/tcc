@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="28" version="2.0">
+<workbench progressCount="22" version="2.0">
 <workbenchAdvisor/>
-<window height="768" width="683" x="0" y="0">
+<window height="768" maximized="true" width="683" x="0" y="0">
 <fastViewData fastViewLocation="1024"/>
 <perspectiveBar>
 <itemSize x="160"/>
 </perspectiveBar>
 <coolbarLayout>
 <coolItem id="group.file" itemType="typeGroupMarker"/>
-<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="336" y="22"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="160" y="22"/>
 <coolItem id="additions" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="53" y="22"/>
 <coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="76" y="22"/>
@@ -35,29 +35,34 @@
 <part id="2"/>
 <part id="3"/>
 <part id="4"/>
+<part id="5"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor id="net.sourceforge.texlipse.TexEditor" name="00_Dados.tex" partName="00_Dados.tex" path="C:/Users/Israel Cunha/Google Drive/TCC/workspaceLatex/TCC NUAPA LATEX/editaveis/00_Dados.tex" title="00_Dados.tex" tooltip="TCC NUAPA LATEX/editaveis/00_Dados.tex" workbook="DefaultEditorWorkbook">
+<editor id="net.sourceforge.texlipse.TexEditor" name="00_Dados.tex" partName="00_Dados.tex" path="C:/Users/Israel Cunha/Documents/GitHub/tcc/workspaceLatex/TCC NUAPA LATEX/editaveis/00_Dados.tex" title="00_Dados.tex" tooltip="TCC NUAPA LATEX/editaveis/00_Dados.tex" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/TCC NUAPA LATEX/editaveis/00_Dados.tex"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="885" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="91" selectionTopPixel="0"/>
 </editor>
-<editor id="net.sourceforge.texlipse.TexEditor" name="06_Agradecimentos.tex" partName="06_Agradecimentos.tex" path="C:/Users/Israel Cunha/Google Drive/TCC/workspaceLatex/TCC NUAPA LATEX/editaveis/06_Agradecimentos.tex" title="06_Agradecimentos.tex" tooltip="TCC NUAPA LATEX/editaveis/06_Agradecimentos.tex" workbook="DefaultEditorWorkbook">
+<editor id="net.sourceforge.texlipse.TexEditor" name="06_Agradecimentos.tex" partName="06_Agradecimentos.tex" path="C:/Users/Israel Cunha/Documents/GitHub/tcc/workspaceLatex/TCC NUAPA LATEX/editaveis/06_Agradecimentos.tex" title="06_Agradecimentos.tex" tooltip="TCC NUAPA LATEX/editaveis/06_Agradecimentos.tex" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/TCC NUAPA LATEX/editaveis/06_Agradecimentos.tex"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
 </editor>
-<editor id="net.sourceforge.texlipse.TexEditor" name="07_Epigrafe.tex" partName="07_Epigrafe.tex" path="C:/Users/Israel Cunha/Google Drive/TCC/workspaceLatex/TCC NUAPA LATEX/editaveis/07_Epigrafe.tex" title="07_Epigrafe.tex" tooltip="TCC NUAPA LATEX/editaveis/07_Epigrafe.tex" workbook="DefaultEditorWorkbook">
+<editor id="net.sourceforge.texlipse.TexEditor" name="07_Epigrafe.tex" partName="07_Epigrafe.tex" path="C:/Users/Israel Cunha/Documents/GitHub/tcc/workspaceLatex/TCC NUAPA LATEX/editaveis/07_Epigrafe.tex" title="07_Epigrafe.tex" tooltip="TCC NUAPA LATEX/editaveis/07_Epigrafe.tex" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/TCC NUAPA LATEX/editaveis/07_Epigrafe.tex"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
 </editor>
-<editor activePart="true" focus="true" id="net.sourceforge.texlipse.TexEditor" name="10_Introducao.tex" partName="10_Introducao.tex" path="C:/Users/Israel Cunha/Google Drive/TCC/workspaceLatex/TCC NUAPA LATEX/editaveis/10_Introducao.tex" title="10_Introducao.tex" tooltip="TCC NUAPA LATEX/editaveis/10_Introducao.tex" workbook="DefaultEditorWorkbook">
+<editor id="net.sourceforge.texlipse.TexEditor" name="10_Introducao.tex" partName="10_Introducao.tex" path="C:/Users/Israel Cunha/Documents/GitHub/tcc/workspaceLatex/TCC NUAPA LATEX/editaveis/10_Introducao.tex" title="10_Introducao.tex" tooltip="TCC NUAPA LATEX/editaveis/10_Introducao.tex" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/TCC NUAPA LATEX/editaveis/10_Introducao.tex"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="328" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1" selectionTopPixel="0"/>
 </editor>
 <editor id="net.sourceforge.texlipse.bibeditor.BibEditor" name="biblio.bib" partName="biblio.bib" path="C:/Users/Israel Cunha/Google Drive/TCC/workspaceLatex/TCC NUAPA LATEX/biblio.bib" title="biblio.bib" tooltip="TCC NUAPA LATEX/biblio.bib" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/TCC NUAPA LATEX/biblio.bib"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1894" selectionTopPixel="463"/>
+</editor>
+<editor activePart="true" focus="true" id="net.sourceforge.texlipse.TexEditor" name="Principal.tex" partName="Principal.tex" path="C:/Users/Israel Cunha/Documents/GitHub/tcc/workspaceLatex/Modelo NuapaTex_Univas/Principal.tex" title="Principal.tex" tooltip="Modelo NuapaTex_Univas/Principal.tex" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Modelo NuapaTex_Univas/Principal.tex"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="421" selectionTopPixel="0"/>
 </editor>
 </editors>
 <views>
@@ -65,12 +70,11 @@
 <view id="org.eclipse.ui.navigator.ProjectExplorer" partName="Project Explorer">
 <viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
 </view>
-<view id="net.sourceforge.texlipse.FullOutline" partName="Full Latex Outline"/>
+<view id="net.sourceforge.texlipse.FullOutline" partName="Full Latex Outline">
+<viewState/>
+</view>
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
-<expanded>
-<category IMemento.internal.id="Warnings (1 item)"/>
-</expanded>
 <columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90" org.eclipse.ui.ide.severityAndDescriptionField="540"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
@@ -99,7 +103,7 @@
 <viewState/>
 </view>
 </views>
-<perspectives activePart="net.sourceforge.texlipse.TexEditor" activePerspective="net.sourceforge.texlipse.TexlipsePerspective">
+<perspectives activePart="org.eclipse.ui.navigator.ProjectExplorer" activePerspective="net.sourceforge.texlipse.TexlipsePerspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="org.eclipse.ui.internal.ide.application.ResourcePerspective" id="org.eclipse.ui.resourcePerspective" label="Resource"/>
 <alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
@@ -174,7 +178,7 @@
 </mainWindow>
 </layout>
 </perspective>
-<perspective editorAreaTrimState="1" editorAreaVisible="1" fixed="0" version="0.016">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="net.sourceforge.texlipse.TexPerspectiveFactory" id="net.sourceforge.texlipse.TexlipsePerspective" label="LaTeX"/>
 <alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
 <alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
@@ -200,12 +204,10 @@
 <new_wizard_action id="net.sourceforge.texlipse.wizards.TexlipseNewTexFileWizard"/>
 <hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
 <hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="net.sourceforge.texlipse.FullOutline"/>
 <fastViewBars>
-<fastViewBar fastViewLocation="16384" id="org.eclipse.ui.internal.ViewStack@461b685c" orientation="512" selectedTabId="org.eclipse.ui.navigator.ProjectExplorer" style="1">
-<fastViews>
-<view id="org.eclipse.ui.navigator.ProjectExplorer" ratio="0.4620253"/>
-</fastViews>
-</fastViewBar>
 <fastViewBar fastViewLocation="1024" id="bottom" orientation="256" selectedTabId="org.eclipse.ui.console.ConsoleView" style="0">
 <fastViews>
 <view id="org.eclipse.ui.views.ProblemView" ratio="0.3"/>
@@ -214,19 +216,15 @@
 <view id="net.sourceforge.texlipse.TableView" ratio="0.3"/>
 </fastViews>
 </fastViewBar>
-<fastViewBar fastViewLocation="16384" id="left" orientation="256" selectedTabId="org.eclipse.ui.views.ContentOutline" style="0">
-<fastViews>
-<view id="org.eclipse.ui.views.ContentOutline" ratio="0.3"/>
-<view id="net.sourceforge.texlipse.FullOutline" ratio="0.3"/>
-</fastViews>
-</fastViewBar>
 </fastViewBars>
 <layout>
 <mainWindow>
 <info folder="true" part="org.eclipse.ui.internal.ViewStack@461b685c">
-<folder appearance="2" expanded="0">
-<page content="org.eclipse.ui.navigator.ProjectExplorer" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+<folder activePageID="org.eclipse.ui.navigator.ProjectExplorer" appearance="2" expanded="2">
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
 </folder>
 </info>
 <info folder="true" part="stickyFolderRight" ratio="0.7496318" ratioLeft="1018" ratioRight="340" relationship="2" relative="org.eclipse.ui.internal.ViewStack@461b685c">
@@ -255,10 +253,13 @@
 </folder>
 </info>
 <info folder="true" part="left" ratio="0.49921012" ratioLeft="316" ratioRight="317" relationship="4" relative="org.eclipse.ui.internal.ViewStack@461b685c">
-<folder appearance="2" expanded="2">
-<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
-<page content="net.sourceforge.texlipse.FullOutline" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="net.sourceforge.texlipse.FullOutline" label="Full Latex Outline"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
 </folder>
 </info>
 </mainWindow>
@@ -268,9 +269,6 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" path="/NuapaTCC Univas/fixos/01_Capa.tex"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" path="/NuapaTCC Univas/fluxos/fluxo-evento-cadastro-filme.tex"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" path="/NuapaTCC Univas/styles/NuapaStyle.sty"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" path="/TCC NUAPA LATEX/Principal.tex"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" path="/TCC NUAPA LATEX/editaveis/00_Dados.tex"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" path="/TCC NUAPA LATEX/editaveis/06_Agradecimentos.tex"/>
@@ -288,156 +286,160 @@
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" path="/TCC NUAPA LATEX/editaveis/06_Agradecimentos.tex"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" path="/TCC NUAPA LATEX/editaveis/07_Epigrafe.tex"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.bibeditor.BibEditor" path="/TCC NUAPA LATEX/biblio.bib"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" path="/TCC NUAPA LATEX/editaveis/07_Epigrafe.tex"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" path="/TCC NUAPA LATEX/editaveis/06_Agradecimentos.tex"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" path="/TCC NUAPA LATEX/editaveis/00_Dados.tex"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" path="/Modelo NuapaTex_Univas/Principal.tex"/>
 </editors>
-<item historyLabel="fluxo-evento-cadastro-filme.tex" index="1">
+<item historyLabel="Principal.tex" index="0">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="NuapaStyle.sty" index="2">
-<position info="not_deleted" x="602" y="0"/>
-</item>
-<item historyLabel="01_Capa.tex" index="0">
-<position info="not_deleted" x="940" y="0"/>
-</item>
-<item historyLabel="NuapaStyle.sty" index="2">
-<position info="not_deleted" x="602" y="0"/>
-</item>
-<item historyLabel="Principal.tex" index="3">
+<item historyLabel="00_Dados.tex" index="1">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="00_Dados.tex" index="4">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="06_Agradecimentos.tex" index="5">
+<item historyLabel="06_Agradecimentos.tex" index="2">
 <position info="not_deleted" x="27" y="0"/>
 </item>
-<item historyLabel="07_Epigrafe.tex" index="6">
+<item historyLabel="07_Epigrafe.tex" index="3">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="08_Resumo.tex" index="7">
+<item historyLabel="08_Resumo.tex" index="4">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="09_Abstract.tex" index="8">
+<item historyLabel="09_Abstract.tex" index="5">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="0B_Siglas.tex" index="9">
+<item historyLabel="0B_Siglas.tex" index="6">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="10_Introducao.tex" index="10">
+<item historyLabel="10_Introducao.tex" index="7">
 <position info="not_deleted" x="28" y="0"/>
 </item>
-<item historyLabel="document.tex" index="11">
+<item historyLabel="document.tex" index="8">
 <position/>
 </item>
-<item historyLabel="0B_Siglas.tex" index="9">
+<item historyLabel="0B_Siglas.tex" index="6">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="document.tex" index="11">
+<item historyLabel="document.tex" index="8">
 <position/>
 </item>
-<item historyLabel="0B_Siglas.tex" index="9">
+<item historyLabel="0B_Siglas.tex" index="6">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="10_Introducao.tex" index="10">
+<item historyLabel="10_Introducao.tex" index="7">
 <position info="not_deleted" x="28" y="0"/>
 </item>
-<item historyLabel="document.tex" index="11">
+<item historyLabel="document.tex" index="8">
 <position info="not_deleted" x="304" y="0"/>
 </item>
-<item historyLabel="10_Introducao.tex" index="10">
+<item historyLabel="10_Introducao.tex" index="7">
 <position info="not_deleted" x="28" y="0"/>
 </item>
-<item historyLabel="document.tex" index="12">
+<item historyLabel="document.tex" index="9">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="10_Introducao.tex" index="10">
+<item historyLabel="10_Introducao.tex" index="7">
 <position info="not_deleted" x="28" y="0"/>
 </item>
-<item historyLabel="03_FichaCatalografica.tex" index="13">
+<item historyLabel="03_FichaCatalografica.tex" index="10">
 <position info="not_deleted" x="861" y="0"/>
 </item>
-<item historyLabel="00_Dados.tex" index="14">
+<item historyLabel="00_Dados.tex" index="11">
 <position info="not_deleted" x="100" y="0"/>
 </item>
-<item historyLabel="03_FichaCatalografica.tex" index="13">
+<item historyLabel="03_FichaCatalografica.tex" index="10">
 <position/>
 </item>
-<item historyLabel="08_Resumo.tex" index="15">
+<item historyLabel="08_Resumo.tex" index="12">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="03_FichaCatalografica.tex" index="13">
+<item historyLabel="03_FichaCatalografica.tex" index="10">
 <position/>
 </item>
-<item historyLabel="10_Introducao.tex" index="10">
+<item historyLabel="10_Introducao.tex" index="7">
 <position info="not_deleted" x="28" y="0"/>
 </item>
-<item historyLabel="03_FichaCatalografica.tex" index="13">
+<item historyLabel="03_FichaCatalografica.tex" index="10">
 <position/>
 </item>
-<item historyLabel="03_FichaCatalografica.tex" index="16">
+<item historyLabel="03_FichaCatalografica.tex" index="13">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="03_FichaCatalografica.tex" index="13">
+<item historyLabel="03_FichaCatalografica.tex" index="10">
 <position/>
 </item>
-<item historyLabel="03_FichaCatalografica.tex" index="16">
+<item historyLabel="03_FichaCatalografica.tex" index="13">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="03_FichaCatalografica.tex" index="13">
+<item historyLabel="03_FichaCatalografica.tex" index="10">
 <position/>
 </item>
-<item historyLabel="03_FichaCatalografica.tex" index="16">
+<item historyLabel="03_FichaCatalografica.tex" index="13">
 <position info="not_deleted" x="0" y="866"/>
 </item>
-<item historyLabel="03_FichaCatalografica.tex" index="13">
+<item historyLabel="03_FichaCatalografica.tex" index="10">
 <position info="not_deleted" x="866" y="0"/>
 </item>
-<item historyLabel="03_FichaCatalografica.tex" index="16">
+<item historyLabel="03_FichaCatalografica.tex" index="13">
 <position info="not_deleted" x="659" y="0"/>
 </item>
-<item historyLabel="03_FichaCatalografica.tex" index="13">
+<item historyLabel="03_FichaCatalografica.tex" index="10">
 <position info="not_deleted" x="861" y="0"/>
 </item>
-<item historyLabel="00_Dados.tex" index="14">
+<item historyLabel="00_Dados.tex" index="11">
 <position info="not_deleted" x="90" y="0"/>
 </item>
-<item historyLabel="06_Agradecimentos.tex" index="17">
+<item historyLabel="06_Agradecimentos.tex" index="14">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="07_Epigrafe.tex" index="18">
+<item historyLabel="07_Epigrafe.tex" index="15">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="10_Introducao.tex" index="10">
+<item historyLabel="10_Introducao.tex" index="7">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="biblio.bib" index="19">
+<item historyLabel="biblio.bib" index="16">
 <position/>
 </item>
-<item historyLabel="10_Introducao.tex" index="10">
+<item historyLabel="10_Introducao.tex" index="7">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="biblio.bib" index="19">
+<item historyLabel="biblio.bib" index="16">
 <position info="not_deleted" x="1894" y="0"/>
 </item>
-<item historyLabel="00_Dados.tex" index="14">
+<item historyLabel="00_Dados.tex" index="11">
 <position info="not_deleted" x="885" y="0"/>
 </item>
-<item historyLabel="06_Agradecimentos.tex" index="17">
+<item historyLabel="06_Agradecimentos.tex" index="14">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="07_Epigrafe.tex" index="18">
+<item historyLabel="07_Epigrafe.tex" index="15">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="10_Introducao.tex" index="10">
+<item historyLabel="10_Introducao.tex" index="7">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="biblio.bib" index="19">
+<item historyLabel="biblio.bib" index="16">
 <position info="not_deleted" x="1894" y="0"/>
 </item>
-<item historyLabel="10_Introducao.tex" index="10">
+<item historyLabel="10_Introducao.tex" index="7">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item active="true" historyLabel="10_Introducao.tex" index="10">
+<item historyLabel="10_Introducao.tex" index="7">
 <position info="not_deleted" x="329" y="0"/>
+</item>
+<item historyLabel="07_Epigrafe.tex" index="17">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="06_Agradecimentos.tex" index="18">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="00_Dados.tex" index="19">
+<position info="not_deleted" x="885" y="0"/>
+</item>
+<item active="true" historyLabel="Principal.tex" index="20">
+<position info="not_deleted" x="0" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -462,6 +464,9 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" name="Principal.tex" tooltip="Modelo NuapaTex_Univas/Principal.tex">
+<persistable path="/Modelo NuapaTex_Univas/Principal.tex"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.bibeditor.BibEditor" name="biblio.bib" tooltip="TCC NUAPA LATEX/biblio.bib">
 <persistable path="/TCC NUAPA LATEX/biblio.bib"/>
 </file>
@@ -503,9 +508,6 @@
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" name="Principal.tex" tooltip="NuapaTex_Univas/Principal.tex">
 <persistable path="/NuapaTex_Univas/Principal.tex"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" name="Principal.tex" tooltip="Modelo NuapaTex_Univas/Principal.tex">
-<persistable path="/Modelo NuapaTex_Univas/Principal.tex"/>
 </file>
 </mruList>
 </workbench>
