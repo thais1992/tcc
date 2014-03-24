@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="27" version="2.0">
+<workbench progressCount="28" version="2.0">
 <workbenchAdvisor/>
 <window height="768" maximized="true" width="683" x="0" y="0">
 <fastViewData fastViewLocation="1024"/>
@@ -31,13 +31,43 @@
 <folder appearance="1" expanded="2">
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor activePart="true" focus="true" id="net.sourceforge.texlipse.TexEditor" name="00_Dados.tex" partName="00_Dados.tex" path="C:/Users/Israel Cunha/Documents/GitHub/tcc/workspaceLatex/Pré-Projeto/editaveis/00_Dados.tex" title="00_Dados.tex" tooltip="Pré-Projeto/editaveis/00_Dados.tex" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Pré-Projeto/editaveis/00_Dados.tex"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="533" selectionTopPixel="0"/>
+<editor id="net.sourceforge.texlipse.TexEditor" name="10_Introducao.tex" partName="10_Introducao.tex" path="C:/Users/Israel Cunha/Documents/GitHub/tcc/workspaceLatex/Projeto_TCC/editaveis/10_Introducao.tex" title="10_Introducao.tex" tooltip="Projeto_TCC/editaveis/10_Introducao.tex" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Projeto_TCC/editaveis/10_Introducao.tex"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="net.sourceforge.texlipse.TexEditor" name="Justificativa.tex" partName="Justificativa.tex" path="C:/Users/Israel Cunha/Documents/GitHub/tcc/workspaceLatex/Projeto_TCC/editaveis/Justificativa.tex" title="Justificativa.tex" tooltip="Projeto_TCC/editaveis/Justificativa.tex" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Projeto_TCC/editaveis/Justificativa.tex"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="33" selectionTopPixel="0"/>
+</editor>
+<editor id="net.sourceforge.texlipse.TexEditor" name="Objetivo.tex" partName="Objetivo.tex" path="C:/Users/Israel Cunha/Documents/GitHub/tcc/workspaceLatex/Projeto_TCC/editaveis/Objetivo.tex" title="Objetivo.tex" tooltip="Projeto_TCC/editaveis/Objetivo.tex" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Projeto_TCC/editaveis/Objetivo.tex"/>
+<editorState selectionHorizontalPixel="144" selectionLength="0" selectionOffset="80" selectionTopPixel="0"/>
+</editor>
+<editor id="net.sourceforge.texlipse.TexEditor" name="Metodologia.tex" partName="Metodologia.tex" path="C:/Users/Israel Cunha/Documents/GitHub/tcc/workspaceLatex/Projeto_TCC/editaveis/Metodologia.tex" title="Metodologia.tex" tooltip="Projeto_TCC/editaveis/Metodologia.tex" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Projeto_TCC/editaveis/Metodologia.tex"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="68" selectionTopPixel="0"/>
+</editor>
+<editor id="net.sourceforge.texlipse.TexEditor" name="0B_Siglas.tex" partName="0B_Siglas.tex" path="C:/Users/Israel Cunha/Documents/GitHub/tcc/workspaceLatex/Projeto_TCC/editaveis/0B_Siglas.tex" title="0B_Siglas.tex" tooltip="Projeto_TCC/editaveis/0B_Siglas.tex" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Projeto_TCC/editaveis/0B_Siglas.tex"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="445" selectionTopPixel="0"/>
+</editor>
+<editor activePart="true" focus="true" id="net.sourceforge.texlipse.bibeditor.BibEditor" name="biblio.bib" partName="biblio.bib" path="C:/Users/Israel Cunha/Documents/GitHub/tcc/workspaceLatex/Projeto_TCC/biblio.bib" title="biblio.bib" tooltip="Projeto_TCC/biblio.bib" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Projeto_TCC/biblio.bib"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1190" selectionTopPixel="58"/>
+</editor>
+<editor id="net.sourceforge.texlipse.TexEditor" name="Principal.tex" partName="Principal.tex" path="C:/Users/Israel Cunha/Documents/GitHub/tcc/workspaceLatex/Projeto_TCC/Principal.tex" title="Principal.tex" tooltip="Projeto_TCC/Principal.tex" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Projeto_TCC/Principal.tex"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1339" selectionTopPixel="135"/>
 </editor>
 </editors>
 <views>
@@ -50,6 +80,9 @@
 </view>
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<expanded>
+<category IMemento.internal.id="Warnings (1 item)"/>
+</expanded>
 <columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90" org.eclipse.ui.ide.severityAndDescriptionField="540"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
@@ -78,7 +111,7 @@
 <viewState/>
 </view>
 </views>
-<perspectives activePart="org.eclipse.ui.navigator.ProjectExplorer" activePerspective="net.sourceforge.texlipse.TexlipsePerspective">
+<perspectives activePart="net.sourceforge.texlipse.bibeditor.BibEditor" activePerspective="net.sourceforge.texlipse.TexlipsePerspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="org.eclipse.ui.internal.ide.application.ResourcePerspective" id="org.eclipse.ui.resourcePerspective" label="Resource"/>
 <alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
@@ -153,7 +186,7 @@
 </mainWindow>
 </layout>
 </perspective>
-<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<perspective editorAreaTrimState="1" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="net.sourceforge.texlipse.TexPerspectiveFactory" id="net.sourceforge.texlipse.TexlipsePerspective" label="LaTeX"/>
 <alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
 <alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
@@ -179,8 +212,12 @@
 <new_wizard_action id="net.sourceforge.texlipse.wizards.TexlipseNewTexFileWizard"/>
 <hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
 <hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
-<view id="org.eclipse.ui.navigator.ProjectExplorer"/>
 <fastViewBars>
+<fastViewBar fastViewLocation="16384" id="org.eclipse.ui.internal.ViewStack@461b685c" orientation="512" selectedTabId="org.eclipse.ui.navigator.ProjectExplorer" style="1">
+<fastViews>
+<view id="org.eclipse.ui.navigator.ProjectExplorer" ratio="0.32156274"/>
+</fastViews>
+</fastViewBar>
 <fastViewBar fastViewLocation="1024" id="bottom" orientation="256" selectedTabId="org.eclipse.ui.console.ConsoleView" style="0">
 <fastViews>
 <view id="org.eclipse.ui.views.ProblemView" ratio="0.3"/>
@@ -199,11 +236,9 @@
 <layout>
 <mainWindow>
 <info folder="true" part="org.eclipse.ui.internal.ViewStack@461b685c">
-<folder activePageID="org.eclipse.ui.navigator.ProjectExplorer" appearance="2" expanded="2">
-<page content="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
-</presentation>
+<folder appearance="2" expanded="0">
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
 <info folder="true" part="stickyFolderRight" ratio="0.7496318" ratioLeft="1018" ratioRight="340" relationship="2" relative="org.eclipse.ui.internal.ViewStack@461b685c">
@@ -232,7 +267,7 @@
 </folder>
 </info>
 <info folder="true" part="left" ratio="0.49921012" ratioLeft="316" ratioRight="317" relationship="4" relative="org.eclipse.ui.internal.ViewStack@461b685c">
-<folder appearance="2" expanded="2">
+<folder appearance="2" expanded="0">
 <page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
 <page content="net.sourceforge.texlipse.FullOutline" label="LabelNotFound"/>
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
@@ -246,9 +281,114 @@
 <navigationHistory>
 <editors>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" path="/Pré-Projeto/editaveis/00_Dados.tex"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" path="/Projeto_TCC/editaveis/00_Dados.tex"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" path="/Projeto_TCC/editaveis/05_Dedicatoria.tex"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" path="/Projeto_TCC/Principal.tex"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" path="/Justificativa/document.tex"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" path="/Projeto_TCC/editaveis/06_Agradecimentos.tex"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" path="/Projeto_TCC/editaveis/10_Introducao.tex"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" path="/Projeto_TCC/editaveis/Justificativa.tex"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" path="/Projeto_TCC/editaveis/OBJETIVO.tex"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" path="/Projeto_TCC/editaveis/Objetivo.tex"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" path="/Projeto_TCC/editaveis/Metodologia.tex"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" path="/Projeto_TCC/editaveis/0B_Siglas.tex"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.bibeditor.BibEditor" path="/Projeto_TCC/biblio.bib"/>
 </editors>
-<item active="true" historyLabel="00_Dados.tex" index="0">
+<item historyLabel="00_Dados.tex" index="0">
+<position info="not_deleted" x="533" y="0"/>
+</item>
+<item historyLabel="00_Dados.tex" index="1">
+<position info="not_deleted" x="886" y="0"/>
+</item>
+<item historyLabel="05_Dedicatoria.tex" index="2">
 <position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="00_Dados.tex" index="1">
+<position info="not_deleted" x="186" y="0"/>
+</item>
+<item historyLabel="05_Dedicatoria.tex" index="2">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="00_Dados.tex" index="1">
+<position info="not_deleted" x="186" y="0"/>
+</item>
+<item historyLabel="05_Dedicatoria.tex" index="2">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Principal.tex" index="3">
+<position info="not_deleted" x="1051" y="0"/>
+</item>
+<item historyLabel="document.tex" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="06_Agradecimentos.tex" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="10_Introducao.tex" index="6">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Justificativa.tex" index="7">
+<position info="not_deleted" x="33" y="0"/>
+</item>
+<item historyLabel="OBJETIVO.tex" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Objetivo.tex" index="9">
+<position info="not_deleted" x="80" y="0"/>
+</item>
+<item historyLabel="Justificativa.tex" index="7">
+<position info="not_deleted" x="22" y="0"/>
+</item>
+<item historyLabel="Objetivo.tex" index="9">
+<position info="not_deleted" x="80" y="0"/>
+</item>
+<item historyLabel="Principal.tex" index="3">
+<position info="not_deleted" x="1051" y="0"/>
+</item>
+<item historyLabel="Principal.tex" index="3">
+<position info="not_deleted" x="972" y="0"/>
+</item>
+<item historyLabel="Metodologia.tex" index="10">
+<position info="not_deleted" x="68" y="0"/>
+</item>
+<item historyLabel="Principal.tex" index="3">
+<position info="not_deleted" x="628" y="0"/>
+</item>
+<item historyLabel="Metodologia.tex" index="10">
+<position info="not_deleted" x="20" y="0"/>
+</item>
+<item historyLabel="Justificativa.tex" index="7">
+<position info="not_deleted" x="33" y="0"/>
+</item>
+<item historyLabel="Metodologia.tex" index="10">
+<position info="not_deleted" x="68" y="0"/>
+</item>
+<item historyLabel="Principal.tex" index="3">
+<position info="not_deleted" x="1355" y="0"/>
+</item>
+<item historyLabel="Metodologia.tex" index="10">
+<position info="not_deleted" x="68" y="0"/>
+</item>
+<item historyLabel="06_Agradecimentos.tex" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Metodologia.tex" index="10">
+<position info="not_deleted" x="68" y="0"/>
+</item>
+<item historyLabel="0B_Siglas.tex" index="11">
+<position info="not_deleted" x="445" y="0"/>
+</item>
+<item historyLabel="biblio.bib" index="12">
+<position info="not_deleted" x="1196" y="0"/>
+</item>
+<item historyLabel="Metodologia.tex" index="10">
+<position info="not_deleted" x="68" y="0"/>
+</item>
+<item historyLabel="Principal.tex" index="3">
+<position info="not_deleted" x="1339" y="0"/>
+</item>
+<item active="true" historyLabel="biblio.bib" index="12">
+<position info="not_deleted" x="1196" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -258,6 +398,7 @@
 <trimLayout>
 <trimArea IMemento.internal.id="16384">
 <trimItem IMemento.internal.id="left"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@461b685c"/>
 </trimArea>
 <trimArea IMemento.internal.id="128">
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
@@ -272,11 +413,41 @@
 </trimLayout>
 </window>
 <mruList>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" name="00_Dados.tex" tooltip="Pré-Projeto/editaveis/00_Dados.tex">
-<persistable path="/Pré-Projeto/editaveis/00_Dados.tex"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" name="Principal.tex" tooltip="Projeto_TCC/Principal.tex">
+<persistable path="/Projeto_TCC/Principal.tex"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.bibeditor.BibEditor" name="biblio.bib" tooltip="Projeto_TCC/biblio.bib">
+<persistable path="/Projeto_TCC/biblio.bib"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" name="0B_Siglas.tex" tooltip="Projeto_TCC/editaveis/0B_Siglas.tex">
+<persistable path="/Projeto_TCC/editaveis/0B_Siglas.tex"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" name="Metodologia.tex" tooltip="Projeto_TCC/editaveis/Metodologia.tex">
+<persistable path="/Projeto_TCC/editaveis/Metodologia.tex"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" name="OBJETIVO.tex" tooltip="Projeto_TCC/editaveis/OBJETIVO.tex">
+<persistable path="/Projeto_TCC/editaveis/OBJETIVO.tex"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" name="Justificativa.tex" tooltip="Projeto_TCC/editaveis/Justificativa.tex">
+<persistable path="/Projeto_TCC/editaveis/Justificativa.tex"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" name="10_Introducao.tex" tooltip="Projeto_TCC/editaveis/10_Introducao.tex">
+<persistable path="/Projeto_TCC/editaveis/10_Introducao.tex"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" name="06_Agradecimentos.tex" tooltip="Projeto_TCC/editaveis/06_Agradecimentos.tex">
+<persistable path="/Projeto_TCC/editaveis/06_Agradecimentos.tex"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" name="document.tex" tooltip="Justificativa/document.tex">
+<persistable path="/Justificativa/document.tex"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" name="05_Dedicatoria.tex" tooltip="Projeto_TCC/editaveis/05_Dedicatoria.tex">
+<persistable path="/Projeto_TCC/editaveis/05_Dedicatoria.tex"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" name="00_Dados.tex" tooltip="Projeto_TCC/editaveis/00_Dados.tex">
 <persistable path="/Projeto_TCC/editaveis/00_Dados.tex"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" name="00_Dados.tex" tooltip="Pré-Projeto/editaveis/00_Dados.tex">
+<persistable path="/Pré-Projeto/editaveis/00_Dados.tex"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" name="06_Agradecimentos.tex" tooltip="Pré-Projeto/editaveis/06_Agradecimentos.tex">
 <persistable path="/Pré-Projeto/editaveis/06_Agradecimentos.tex"/>
@@ -286,36 +457,6 @@
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.bibeditor.BibEditor" name="biblio.bib" tooltip="TCC NUAPA LATEX/biblio.bib">
 <persistable path="/TCC NUAPA LATEX/biblio.bib"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" name="10_Introducao.tex" tooltip="TCC NUAPA LATEX/editaveis/10_Introducao.tex">
-<persistable path="/TCC NUAPA LATEX/editaveis/10_Introducao.tex"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" name="07_Epigrafe.tex" tooltip="TCC NUAPA LATEX/editaveis/07_Epigrafe.tex">
-<persistable path="/TCC NUAPA LATEX/editaveis/07_Epigrafe.tex"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" name="06_Agradecimentos.tex" tooltip="TCC NUAPA LATEX/editaveis/06_Agradecimentos.tex">
-<persistable path="/TCC NUAPA LATEX/editaveis/06_Agradecimentos.tex"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" name="00_Dados.tex" tooltip="TCC NUAPA LATEX/editaveis/00_Dados.tex">
-<persistable path="/TCC NUAPA LATEX/editaveis/00_Dados.tex"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" name="03_FichaCatalografica.tex" tooltip="Modelo NuapaTex_Univas/fixos/03_FichaCatalografica.tex">
-<persistable path="/Modelo NuapaTex_Univas/fixos/03_FichaCatalografica.tex"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" name="03_FichaCatalografica.tex" tooltip="TCC NUAPA LATEX/fixos/03_FichaCatalografica.tex">
-<persistable path="/TCC NUAPA LATEX/fixos/03_FichaCatalografica.tex"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" name="document.tex" tooltip="Prova/document.tex">
-<persistable path="/Prova/document.tex"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" name="document.tex" tooltip="Provas/document.tex">
-<persistable path="/Provas/document.tex"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" name="0B_Siglas.tex" tooltip="TCC NUAPA LATEX/editaveis/0B_Siglas.tex">
-<persistable path="/TCC NUAPA LATEX/editaveis/0B_Siglas.tex"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="net.sourceforge.texlipse.TexEditor" name="09_Abstract.tex" tooltip="TCC NUAPA LATEX/editaveis/09_Abstract.tex">
-<persistable path="/TCC NUAPA LATEX/editaveis/09_Abstract.tex"/>
 </file>
 </mruList>
 </workbench>

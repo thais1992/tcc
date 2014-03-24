@@ -1,0 +1,45 @@
+%bibliografias no formato bibtex
+
+@Book{Pesquisa_Ciribelli,
+  author = 	 {M. C. CIRIBELLI},
+  title = 	 {Como elaborar uma dissertação de mestrado através da pesquisa científica},
+  publisher = 	 {Rio de Janeiro: 7 LETRAS},
+  year = 	 {2003},
+}
+
+@Book{Java_Costa,
+  author = 	 {D. G. Costa},
+  title = 	 {Java em rede: Recursos avançados de programação},
+  publisher = 	 {Rio de Janeiro: Brasport},
+  year = 	 {2008},
+}
+
+@Book{Projetos_Cabanis-brewin,
+  author = 	 {J. Cabanis-Brewin and P. C. Dinsmore},
+  title = 	 {AMA: Manual de Gerenciamento de Projetos},
+  publisher = 	 {Rio de Janeiro: Brasport},
+  year = 	 {2014},
+}
+
+@Book{Redes_Forouzan,
+  author = 	 {B. A. Forouzan},
+  title = 	 {Comunicação de dados e redes de computadores},
+  publisher = 	 {Porto Alegre: Bookman},
+  year = 	 {2006},
+}
+
+@Book{Redes_Mosharraf_Forouza,
+  author = 	 {F. F. Mosharraf and B. A. Forouzan},
+  title = 	 {Redes de Computadores - Uma Abordagem Top-Down.},
+  publisher = 	 {Porto Alegre: Bookman},
+  year = 	 {2013},
+}
+
+@Book{Pesquisa_Padua,
+  author = 	 {Pa\'dua de E. M. M.},
+  title = 	 {Metodologia da pesquisa: Abordagem teórico-prático},
+  publisher = 	 {: Papirus},
+  year = 	 {2004},
+  city = {São Paulo},
+  
+}

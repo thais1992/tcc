@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Projeto_TCC/editaveis/OBJETIVO.tex&apos; to &apos;Objetivo.tex&apos;" description="Rename resource &apos;OBJETIVO.tex&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="editaveis/OBJETIVO.tex" name="Objetivo.tex" stamp="1395446521476" updateReferences="true"/>
+</session>

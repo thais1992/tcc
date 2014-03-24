@@ -1,0 +1,24 @@
+%bibliografias no formato bibtex
+
+@Book{Pesquisa_Ciribelli,
+  author = 	 {M. C. CIRIBELLI},
+  title = 	 {Como elaborar uma dissertação de mestrado através da pesquisa científica.},
+  publisher = 	 {7 LETRAS},
+  year = 	 {2003},
+}
+
+@Book{Java_Costa,
+  author = 	 {D. G. Costa},
+  title = 	 {Java em rede: Recursos avançados de programação},
+  publisher = 	 {Brasport},
+  year = 	 {2008},
+  OPTkey = 	 {},
+  OPTvolume = 	 {},
+  OPTnumber = 	 {},
+  OPTseries = 	 {},
+  OPTaddress = 	 {},
+  OPTedition = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}

@@ -1,0 +1,9 @@
+%bibliografias no formato bibtex
+
+@Book{Pesquisa_Ciribelli,
+  author = 	 {M. C. CIRIBELLI},
+  title = 	 {Como elaborar uma dissertação de mestrado através da pesquisa científica.},
+  publisher = 	 {7 LETRAS},
+  year = 	 {2003},
+  edition = 	 {3},
+}

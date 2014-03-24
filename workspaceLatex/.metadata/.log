@@ -2803,3 +2803,318 @@ java.lang.IllegalStateException
 	at org.eclipse.epp.internal.mpc.ui.catalog.MarketplaceCatalog.performDiscovery(MarketplaceCatalog.java:255)
 	at org.eclipse.equinox.internal.p2.ui.discovery.wizards.CatalogViewer$6.run(CatalogViewer.java:569)
 	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SESSION 2014-03-21 20:50:43.582 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY net.sourceforge.texlipse 4 4 2014-03-21 21:07:04.566
+!MESSAGE DDE command [DocOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")][FileOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")] failed! (server: acroview, topic: control)
+!STACK 0
+java.lang.Throwable: DDE command [DocOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")][FileOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")] failed! (server: acroview, topic: control)
+	at net.sourceforge.texlipse.viewer.ViewerManager.sendDDEViewCommand(ViewerManager.java:396)
+	at net.sourceforge.texlipse.viewer.ViewerManager.preview(ViewerManager.java:147)
+	at net.sourceforge.texlipse.viewer.TexLaunchConfigurationDelegate.launch(TexLaunchConfigurationDelegate.java:68)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY net.sourceforge.texlipse 4 4 2014-03-21 21:07:08.981
+!MESSAGE DDE command [DocOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")][FileOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")] failed! (server: acroview, topic: control)
+!STACK 0
+java.lang.Throwable: DDE command [DocOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")][FileOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")] failed! (server: acroview, topic: control)
+	at net.sourceforge.texlipse.viewer.ViewerManager.sendDDEViewCommand(ViewerManager.java:396)
+	at net.sourceforge.texlipse.viewer.ViewerManager.preview(ViewerManager.java:147)
+	at net.sourceforge.texlipse.viewer.TexLaunchConfigurationDelegate.launch(TexLaunchConfigurationDelegate.java:68)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY net.sourceforge.texlipse 4 4 2014-03-21 21:07:48.839
+!MESSAGE DDE command [DocOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")][FileOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")] failed! (server: acroview, topic: control)
+!STACK 0
+java.lang.Throwable: DDE command [DocOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")][FileOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")] failed! (server: acroview, topic: control)
+	at net.sourceforge.texlipse.viewer.ViewerManager.sendDDEViewCommand(ViewerManager.java:396)
+	at net.sourceforge.texlipse.viewer.ViewerManager.preview(ViewerManager.java:147)
+	at net.sourceforge.texlipse.viewer.TexLaunchConfigurationDelegate.launch(TexLaunchConfigurationDelegate.java:68)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY net.sourceforge.texlipse 4 4 2014-03-21 21:08:09.244
+!MESSAGE DDE command [DocClose("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")] failed! (server: acroview, topic: control)
+!STACK 0
+java.lang.Throwable: DDE command [DocClose("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")] failed! (server: acroview, topic: control)
+	at net.sourceforge.texlipse.viewer.ViewerManager.sendDDECloseCommand(ViewerManager.java:412)
+	at net.sourceforge.texlipse.viewer.ViewerManager.closeOutputDocument(ViewerManager.java:191)
+	at net.sourceforge.texlipse.builder.TexBuilder.buildResource(TexBuilder.java:241)
+	at net.sourceforge.texlipse.builder.AbstractBuilder.build(AbstractBuilder.java:121)
+	at net.sourceforge.texlipse.builder.TexlipseBuilder.buildFile(TexlipseBuilder.java:370)
+	at net.sourceforge.texlipse.builder.TexlipseBuilder.build(TexlipseBuilder.java:102)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:728)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.core.resources 4 2 2014-03-21 21:08:14.033
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 1
+net.sourceforge.texlipse.builder.BuilderCoreException: Could not write to an output file. Please close the output document in your viewer and rebuild.
+	at net.sourceforge.texlipse.builder.OutputFileManager.performAfterBuild(OutputFileManager.java:634)
+	at net.sourceforge.texlipse.builder.TexlipseBuilder.buildFile(TexlipseBuilder.java:375)
+	at net.sourceforge.texlipse.builder.TexlipseBuilder.build(TexlipseBuilder.java:102)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:728)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 net.sourceforge.texlipse 4 4 2014-03-21 21:08:14.033
+!MESSAGE Could not write to an output file. Please close the output document in your viewer and rebuild.
+!SUBENTRY 1 net.sourceforge.texlipse 4 4 2014-03-21 21:08:14.033
+!MESSAGE Could not write to an output file. Please close the output document in your viewer and rebuild.
+
+!ENTRY org.eclipse.core.resources 4 75 2014-03-21 21:08:14.049
+!MESSAGE Errors occurred during the build.
+!SUBENTRY 1 net.sourceforge.texlipse 4 75 2014-03-21 21:08:14.049
+!MESSAGE Errors running builder 'Latex Builder' on project 'Projeto_TCC'.
+!STACK 1
+net.sourceforge.texlipse.builder.BuilderCoreException: Could not write to an output file. Please close the output document in your viewer and rebuild.
+	at net.sourceforge.texlipse.builder.OutputFileManager.performAfterBuild(OutputFileManager.java:634)
+	at net.sourceforge.texlipse.builder.TexlipseBuilder.buildFile(TexlipseBuilder.java:375)
+	at net.sourceforge.texlipse.builder.TexlipseBuilder.build(TexlipseBuilder.java:102)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:728)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 2 net.sourceforge.texlipse 4 4 2014-03-21 21:08:14.049
+!MESSAGE Could not write to an output file. Please close the output document in your viewer and rebuild.
+!SUBENTRY 1 net.sourceforge.texlipse 4 4 2014-03-21 21:08:14.049
+!MESSAGE Could not write to an output file. Please close the output document in your viewer and rebuild.
+
+!ENTRY net.sourceforge.texlipse 4 4 2014-03-21 21:08:14.454
+!MESSAGE DDE command [DocOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")][FileOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")] failed! (server: acroview, topic: control)
+!STACK 0
+java.lang.Throwable: DDE command [DocOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")][FileOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")] failed! (server: acroview, topic: control)
+	at net.sourceforge.texlipse.viewer.ViewerManager.sendDDEViewCommand(ViewerManager.java:396)
+	at net.sourceforge.texlipse.viewer.ViewerManager.preview(ViewerManager.java:127)
+	at net.sourceforge.texlipse.viewer.TexLaunchConfigurationDelegate.launch(TexLaunchConfigurationDelegate.java:68)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY net.sourceforge.texlipse 4 4 2014-03-21 21:08:25.468
+!MESSAGE DDE command [DocOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")][FileOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")] failed! (server: acroview, topic: control)
+!STACK 0
+java.lang.Throwable: DDE command [DocOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")][FileOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")] failed! (server: acroview, topic: control)
+	at net.sourceforge.texlipse.viewer.ViewerManager.sendDDEViewCommand(ViewerManager.java:396)
+	at net.sourceforge.texlipse.viewer.ViewerManager.preview(ViewerManager.java:147)
+	at net.sourceforge.texlipse.viewer.TexLaunchConfigurationDelegate.launch(TexLaunchConfigurationDelegate.java:68)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY net.sourceforge.texlipse 4 4 2014-03-21 21:08:56.886
+!MESSAGE DDE command [DocOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")][FileOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")] failed! (server: acroview, topic: control)
+!STACK 0
+java.lang.Throwable: DDE command [DocOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")][FileOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")] failed! (server: acroview, topic: control)
+	at net.sourceforge.texlipse.viewer.ViewerManager.sendDDEViewCommand(ViewerManager.java:396)
+	at net.sourceforge.texlipse.viewer.ViewerManager.preview(ViewerManager.java:147)
+	at net.sourceforge.texlipse.viewer.TexLaunchConfigurationDelegate.launch(TexLaunchConfigurationDelegate.java:68)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY net.sourceforge.texlipse 4 4 2014-03-21 21:09:08.883
+!MESSAGE DDE command [DocClose("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")] failed! (server: acroview, topic: control)
+!STACK 0
+java.lang.Throwable: DDE command [DocClose("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")] failed! (server: acroview, topic: control)
+	at net.sourceforge.texlipse.viewer.ViewerManager.sendDDECloseCommand(ViewerManager.java:412)
+	at net.sourceforge.texlipse.viewer.ViewerManager.closeOutputDocument(ViewerManager.java:191)
+	at net.sourceforge.texlipse.builder.TexBuilder.buildResource(TexBuilder.java:241)
+	at net.sourceforge.texlipse.builder.AbstractBuilder.build(AbstractBuilder.java:121)
+	at net.sourceforge.texlipse.builder.TexlipseBuilder.buildFile(TexlipseBuilder.java:370)
+	at net.sourceforge.texlipse.builder.TexlipseBuilder.build(TexlipseBuilder.java:102)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:728)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY net.sourceforge.texlipse 4 4 2014-03-21 21:09:14.670
+!MESSAGE DDE command [DocOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")][FileOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")] failed! (server: acroview, topic: control)
+!STACK 0
+java.lang.Throwable: DDE command [DocOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")][FileOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")] failed! (server: acroview, topic: control)
+	at net.sourceforge.texlipse.viewer.ViewerManager.sendDDEViewCommand(ViewerManager.java:396)
+	at net.sourceforge.texlipse.viewer.ViewerManager.preview(ViewerManager.java:147)
+	at net.sourceforge.texlipse.viewer.TexLaunchConfigurationDelegate.launch(TexLaunchConfigurationDelegate.java:68)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY net.sourceforge.texlipse 4 4 2014-03-21 21:09:44.373
+!MESSAGE DDE command [DocOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")][FileOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")] failed! (server: acroview, topic: control)
+!STACK 0
+java.lang.Throwable: DDE command [DocOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")][FileOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")] failed! (server: acroview, topic: control)
+	at net.sourceforge.texlipse.viewer.ViewerManager.sendDDEViewCommand(ViewerManager.java:396)
+	at net.sourceforge.texlipse.viewer.ViewerManager.preview(ViewerManager.java:147)
+	at net.sourceforge.texlipse.viewer.TexLaunchConfigurationDelegate.launch(TexLaunchConfigurationDelegate.java:68)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY net.sourceforge.texlipse 4 4 2014-03-21 21:46:54.260
+!MESSAGE DDE command [DocOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")][FileOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")] failed! (server: acroview, topic: control)
+!STACK 0
+java.lang.Throwable: DDE command [DocOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")][FileOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")] failed! (server: acroview, topic: control)
+	at net.sourceforge.texlipse.viewer.ViewerManager.sendDDEViewCommand(ViewerManager.java:396)
+	at net.sourceforge.texlipse.viewer.ViewerManager.preview(ViewerManager.java:147)
+	at net.sourceforge.texlipse.viewer.TexLaunchConfigurationDelegate.launch(TexLaunchConfigurationDelegate.java:68)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY net.sourceforge.texlipse 4 4 2014-03-21 21:49:03.134
+!MESSAGE DDE command [DocClose("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")] failed! (server: acroview, topic: control)
+!STACK 0
+java.lang.Throwable: DDE command [DocClose("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")] failed! (server: acroview, topic: control)
+	at net.sourceforge.texlipse.viewer.ViewerManager.sendDDECloseCommand(ViewerManager.java:412)
+	at net.sourceforge.texlipse.viewer.ViewerManager.closeOutputDocument(ViewerManager.java:191)
+	at net.sourceforge.texlipse.builder.TexBuilder.buildResource(TexBuilder.java:241)
+	at net.sourceforge.texlipse.builder.AbstractBuilder.build(AbstractBuilder.java:121)
+	at net.sourceforge.texlipse.builder.TexlipseBuilder.buildFile(TexlipseBuilder.java:370)
+	at net.sourceforge.texlipse.builder.TexlipseBuilder.build(TexlipseBuilder.java:102)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:728)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.core.resources 4 2 2014-03-21 21:49:09.983
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 1
+net.sourceforge.texlipse.builder.BuilderCoreException: Could not write to an output file. Please close the output document in your viewer and rebuild.
+	at net.sourceforge.texlipse.builder.OutputFileManager.performAfterBuild(OutputFileManager.java:634)
+	at net.sourceforge.texlipse.builder.TexlipseBuilder.buildFile(TexlipseBuilder.java:375)
+	at net.sourceforge.texlipse.builder.TexlipseBuilder.build(TexlipseBuilder.java:102)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:728)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 net.sourceforge.texlipse 4 4 2014-03-21 21:49:09.983
+!MESSAGE Could not write to an output file. Please close the output document in your viewer and rebuild.
+!SUBENTRY 1 net.sourceforge.texlipse 4 4 2014-03-21 21:49:09.983
+!MESSAGE Could not write to an output file. Please close the output document in your viewer and rebuild.
+
+!ENTRY net.sourceforge.texlipse 4 4 2014-03-21 21:49:10.310
+!MESSAGE DDE command [DocClose("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")] failed! (server: acroview, topic: control)
+!STACK 0
+java.lang.Throwable: DDE command [DocClose("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")] failed! (server: acroview, topic: control)
+	at net.sourceforge.texlipse.viewer.ViewerManager.sendDDECloseCommand(ViewerManager.java:412)
+	at net.sourceforge.texlipse.viewer.ViewerManager.closeOutputDocument(ViewerManager.java:191)
+	at net.sourceforge.texlipse.builder.TexBuilder.buildResource(TexBuilder.java:241)
+	at net.sourceforge.texlipse.builder.AbstractBuilder.build(AbstractBuilder.java:121)
+	at net.sourceforge.texlipse.builder.TexlipseBuilder.buildFile(TexlipseBuilder.java:370)
+	at net.sourceforge.texlipse.builder.TexlipseBuilder.build(TexlipseBuilder.java:102)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:728)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY net.sourceforge.texlipse 4 4 2014-03-21 21:49:16.394
+!MESSAGE DDE command [DocOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")][FileOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")] failed! (server: acroview, topic: control)
+!STACK 0
+java.lang.Throwable: DDE command [DocOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")][FileOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")] failed! (server: acroview, topic: control)
+	at net.sourceforge.texlipse.viewer.ViewerManager.sendDDEViewCommand(ViewerManager.java:396)
+	at net.sourceforge.texlipse.viewer.ViewerManager.preview(ViewerManager.java:147)
+	at net.sourceforge.texlipse.viewer.TexLaunchConfigurationDelegate.launch(TexLaunchConfigurationDelegate.java:68)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY net.sourceforge.texlipse 4 4 2014-03-21 21:51:04.097
+!MESSAGE DDE command [DocOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")][FileOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")] failed! (server: acroview, topic: control)
+!STACK 0
+java.lang.Throwable: DDE command [DocOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")][FileOpen("C:\Users\Israel Cunha\Documents\GitHub\tcc\workspaceLatex\Projeto_TCC\out\Principal.pdf")] failed! (server: acroview, topic: control)
+	at net.sourceforge.texlipse.viewer.ViewerManager.sendDDEViewCommand(ViewerManager.java:396)
+	at net.sourceforge.texlipse.viewer.ViewerManager.preview(ViewerManager.java:147)
+	at net.sourceforge.texlipse.viewer.TexLaunchConfigurationDelegate.launch(TexLaunchConfigurationDelegate.java:68)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
