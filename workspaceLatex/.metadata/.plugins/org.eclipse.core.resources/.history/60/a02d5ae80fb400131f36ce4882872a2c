@@ -12,8 +12,8 @@
 %http://books.google.com.br/books?id=_Fr0ooiSIYUC&printsec=frontcover&dq=Java+em+rede:+Recursos+avan%C3%A7ados+de+programa%C3%A7%C3%A3o&hl=pt-BR&sa=X&ei=smUxU8-XEc-lkQeErYCYDw&ved=0CEEQ6AEwAQ#v=onepage&q=Java%20em%20rede%3A%20Recursos%20avan%C3%A7ados%20de%20programa%C3%A7%C3%A3o&f=false
 
 %http://books.google.com.br/books?id=W4oBsv7lifMC&printsec=frontcover&dq=Java+em+rede:+Recursos+avan%C3%A7ados+de+programa%C3%A7%C3%A3o&hl=pt-BR&sa=X&ei=smUxU8-XEc-lkQeErYCYDw&ved=0CDsQ6AEwAA#v=onepage&q=Java%20em%20rede%3A%20Recursos%20avan%C3%A7ados%20de%20programa%C3%A7%C3%A3o&f=false
-@Book{Java_Costa_Avancado,
-  author = 	 {Daniel Gouveia Costa},
+@Book{Java_Costa,
+  author = 	 {DANIEL GOUVEIA COSTA},
   title = 	 {Java em rede: Recursos avançados de programação},
   publisher = 	 {Rio de Janeiro: Brasport},
   year = 	 {2008},
@@ -37,7 +37,6 @@
   year = 	 {2006},
 }
 
-%http://books.google.com.br/books?id=57BIAgAAQBAJ&printsec=frontcover&dq=Redes+de+Computadores+-+Uma+Abordagem+Top-Down&hl=pt-BR&sa=X&ei=EGcxU4yNEIrakQfT2YC4Aw&ved=0CD8Q6AEwAQ#v=onepage&q=Redes%20de%20Computadores%20-%20Uma%20Abordagem%20Top-Down&f=false
 @Book{Redes_Mosharraf_Forouza,
   author = 	 {Behrouz A. Forouzan and Firouz Mosharra},
   title = 	 {Redes de Computadores - Uma Abordagem Top-Down},
@@ -45,9 +44,8 @@
   year = 	 {2013},
 }
 
-% http://books.google.com.br/books?id=72nMi8qNRJsC&pg=PA33&dq=Metodologia+da+pesquisa:+Abordagem+te%C3%B3rico-pr%C3%A1tico&hl=pt-BR&sa=X&ei=YmcxU-CHNoPfkQe1qYGIBw&ved=0CDsQ6AEwAA#v=onepage&q=Metodologia%20da%20pesquisa%3A%20Abordagem%20te%C3%B3rico-pr%C3%A1tico&f=false
 @Book{Pesquisa_Padua,
-  author = 	 {Elisabete Matallo Marchesini de Padua},
+  author = 	 {Pa\'dua de E. M. M.},
   title = 	 {Metodologia da pesquisa: Abordagem teórico-prático},
   publisher = 	 {São Paulo: Papirus},
   year = 	 {2004}

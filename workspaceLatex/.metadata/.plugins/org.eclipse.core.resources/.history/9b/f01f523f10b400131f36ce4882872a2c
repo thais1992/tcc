@@ -12,7 +12,7 @@
 %http://books.google.com.br/books?id=_Fr0ooiSIYUC&printsec=frontcover&dq=Java+em+rede:+Recursos+avan%C3%A7ados+de+programa%C3%A7%C3%A3o&hl=pt-BR&sa=X&ei=smUxU8-XEc-lkQeErYCYDw&ved=0CEEQ6AEwAQ#v=onepage&q=Java%20em%20rede%3A%20Recursos%20avan%C3%A7ados%20de%20programa%C3%A7%C3%A3o&f=false
 
 %http://books.google.com.br/books?id=W4oBsv7lifMC&printsec=frontcover&dq=Java+em+rede:+Recursos+avan%C3%A7ados+de+programa%C3%A7%C3%A3o&hl=pt-BR&sa=X&ei=smUxU8-XEc-lkQeErYCYDw&ved=0CDsQ6AEwAA#v=onepage&q=Java%20em%20rede%3A%20Recursos%20avan%C3%A7ados%20de%20programa%C3%A7%C3%A3o&f=false
-@Book{Java_Costa_Avancado,
+@Book{Java_Costa_2008,
   author = 	 {Daniel Gouveia Costa},
   title = 	 {Java em rede: Recursos avançados de programação},
   publisher = 	 {Rio de Janeiro: Brasport},
