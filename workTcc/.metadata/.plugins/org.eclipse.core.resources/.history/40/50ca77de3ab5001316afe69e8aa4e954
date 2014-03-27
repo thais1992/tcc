@@ -1,0 +1,31 @@
+\chapter{OBJETIVO}
+
+\par Este projeto tem como objetivos os tópicos seguintes.
+
+\section{Objetivo Geral}
+\par Desenvolver uma aplicação que seja de fácil iteração, atuando como ferramenta de suporte
+para o administrador de rede, com foco em gerência de configuração e desempenho, com
+modelos de análise gráfica, baseados em MRTG (\textit{The Multi Router Trafic
+Grafic}). O monitoramento dos equipamentos de rede será obtido pelo Nagios,
+fazendo o uso do SNMP (\textit{Simple Network Management Protocol}, para
+facilitar o acesso das informações.
+
+\section{objetivo Específico}
+\par Através do protocolo SNMP, analisar o tráfego de dados internos da
+\textit{Local Area Network} (LAN).
+\par Utilizar o protocolo IP para obeter configurações dos terminais.
+\par Tranferir os dados necessários utilizando o TCP,
+\par Criação do gráfico de consumo local de pacotes, através do MRTG.
+\par Facilitar a análise de desempenho da rede.
+\par Análise de dados, com o tempo de respostas e o tráfego na rede, podendo, a
+partir desta análise, definir o horário de maior fluxo de transferência de pacotes e qual setor requer maior
+atenção.
+\par Identificar o IP que está consumindo maior largura de banda e seus
+respectivos links.
+\par Gerar relatórios periódicos e gráficos de períodos específico na
+contabilidade de dados.
+\par Identificar os computadores na rede.
+\par Detectar os sistemas operacionais, seus serviços e programas instalados e
+em execução.
+\par Gerir com mais eficácia as aplicações presentes nos sistemas operacionais.
+Identificar quais arquivos e as respectivas datas que estes foram abertos no computador.

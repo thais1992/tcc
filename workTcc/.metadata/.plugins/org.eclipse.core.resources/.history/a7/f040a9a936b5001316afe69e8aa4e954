@@ -1,0 +1,27 @@
+\chapter{INTRODUÇÃO}
+
+\par No ponto de vista de \citeonline{Redes_Tanenbaum}, a tecnologia começou a evoluir a
+partir do século XX, que se mostrou mais aberta ao desenvolvimento na coleta, tratamento e distribuição
+da informação. Neste período também nota-se o avanço das tecnologias que foram empregadas
+no setor de comunicação.
+
+\par Para \citeonline{Redes_Forouzan}, o conceito primordial da rede de dados é que esta
+possui a finalidade de transferir dados de um local para outro, denominando-se comunicação de rede. Ao
+observar este conceito faz-se necessário a compreenção da composição física que possui uma
+rede, assim faz ciência do meios e modelos de dados, satisfazendo o conhecimento prévio para
+gerir ou implementar tráfego de dados.
+
+\par Segundo Schmidt e Mauro (2001), torna-se muito complexo gerenciar uma rede
+na atualidade, bem como manter toda rede em plena execução, dentro dos limites aceitáveis. Neste
+contexto é que o Simlpe Network Management Protocol começa a atuar desde sua criação em
+1988, com propósito de fazer o gerenciamento da rede de computadores através do IP (Internet
+Protocol), podendo assim realizar o gerenciamento de maneira simples, com operações não
+complexas, facilitando os acessos remotos.
+Partindo deste principio, faz-se necessário a criação de meios que faciletem o gerência
+da rede, onde pode ser citado como exemplo, a quantidade e o tráfego de dados gerados nas
+empresas. Este projeto tem o intuito de apresentar uma maneira simples de gerenciamento de
+redes.
+\par A metodologia do projeto será implementada com ICONIX. Para Silva e Videira
+(2001), o ICONIX, é um processo para o desenvolvimento de software de maneira prática. Esta metodologia
+é iquivalente ao XP (Extreme Programming) e ao RUP (Rational Unified Process), que
+baseia-se na simplicidade de seu desenvolvimento.
