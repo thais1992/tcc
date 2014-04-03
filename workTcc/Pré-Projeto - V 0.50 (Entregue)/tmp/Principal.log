@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.2.8)  27 MAR 2014 13:23
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.2.8)  2 APR 2014 19:36
 entering extended mode
 **Principal.tex
 
-("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto - V 0.50\Prin
-cipal.tex"
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto - V 0.50 (Ent
+regue)\Principal.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -571,8 +571,8 @@ Sidefootvsep and sidefootheight: 14.5pt and 590.14995pt
 \ABNTEXsignthickness=\skip194
 \ABNTEXsignskip=\skip195
 )
-("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto - V 0.50\styl
-es/CodeStyle.sty"
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto - V 0.50 (Ent
+regue)\styles/CodeStyle.sty"
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
 Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
 
@@ -612,12 +612,12 @@ Package: listings 2013/08/26 1.5b (Carsten Heinz)
 Package color Info: Redefining color blue on input line 5.
 Package color Info: Redefining color cyan on input line 9.
 )
-("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto - V 0.50\styl
-es/EventFlowStyle.sty"
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto - V 0.50 (Ent
+regue)\styles/EventFlowStyle.sty"
 \c@tablecell=\count173
 )
-("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto - V 0.50\styl
-es/NuapaStyle.sty"
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto - V 0.50 (Ent
+regue)\styles/NuapaStyle.sty"
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks25
@@ -981,8 +981,8 @@ Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 \cftquadroindent=\skip202
 \cftquadronumwidth=\skip203
 
-("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto - V 0.50\edit
-aveis/00_Dados.tex")
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto - V 0.50 (Ent
+regue)\editaveis/00_Dados.tex")
 Package hyperref Info: Option `colorlinks' set `true' on input line 256.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ms\ragged2e.sty"
@@ -1006,10 +1006,10 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 \RaggedRightParindent=\skip216
 \JustifyingParindent=\skip217
 ))
-("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto - V 0.50\Prin
-cipal.aux"
-("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto - V 0.50\fixo
-s/01_Capa.aux"))
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto - V 0.50 (Ent
+regue)\Principal.aux"
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto - V 0.50 (Ent
+regue)\fixos/01_Capa.aux"))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
@@ -1025,12 +1025,14 @@ LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Try loading font information for T1+ptm on input line 10.
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
 \AtBeginShipoutBox=\box33
 Package hyperref Info: Link coloring ON on input line 10.
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
@@ -1107,14 +1109,15 @@ Package caption Info: End \AtBeginDocument code.
 ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 10.
 
-("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto - V 0.50\fixo
-s/01_Capa.tex"
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto - V 0.50 (Ent
+regue)\fixos/01_Capa.tex"
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 36.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 36.
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 36.
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Try loading font information for OML+lmm on input line 36.
@@ -1146,9 +1149,9 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
 
 
 {C:/Users/Israel Cunha/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}])
-("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto - V 0.50\edit
-aveis/0B_Siglas.tex"pdfTeX warning (ext4): destination with the same identifier
- (name{page.1}) has been already used, duplicate ignored
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto - V 0.50 (Ent
+regue)\editaveis/0B_Siglas.tex"pdfTeX warning (ext4): destination with the same
+ identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.15 \end{siglas}
@@ -1158,21 +1161,21 @@ l.15 \end{siglas}
 
 
 ])
-("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto - V 0.50\fixo
-s/0C_Sumario.tex"
-("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto - V 0.50\Prin
-cipal.toc") [2
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto - V 0.50 (Ent
+regue)\fixos/0C_Sumario.tex"
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto - V 0.50 (Ent
+regue)\Principal.toc") [2
 
 ])
-("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto - V 0.50\edit
-aveis/10_Introducao.tex")
-("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto - V 0.50\edit
-aveis/Objetivos.tex" [3
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto - V 0.50 (Ent
+regue)\editaveis/10_Introducao.tex")
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto - V 0.50 (Ent
+regue)\editaveis/Objetivos.tex" [3
 
 
 ])
-("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto - V 0.50\edit
-aveis/Justificativas.tex" [4
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto - V 0.50 (Ent
+regue)\editaveis/Justificativas.tex" [4
 
 ]
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -1182,14 +1185,14 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 10.
 )
-("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto - V 0.50\edit
-aveis/Metodologia.tex" [5
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto - V 0.50 (Ent
+regue)\editaveis/Metodologia.tex" [5
 
 ] [6
 
 ] [7])
-("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto - V 0.50\Prin
-cipal.bbl" [8]
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto - V 0.50 (Ent
+regue)\Principal.bbl" [8]
 bibitemlist
 )
 No file Principal.ind.
@@ -1210,10 +1213,10 @@ See the caption package documentation for explanation.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 52.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 52.
 
-("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto - V 0.50\Prin
-cipal.aux"
-("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto - V 0.50\fixo
-s/01_Capa.aux"))
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto - V 0.50 (Ent
+regue)\Principal.aux"
+("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto - V 0.50 (Ent
+regue)\fixos/01_Capa.aux"))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 52.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 52.
 
@@ -1224,8 +1227,8 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 52.
  ) 
 Here is how much of TeX's memory you used:
  14015 strings out of 493921
- 209614 string characters out of 3144856
- 333900 words of memory out of 3000000
+ 210054 string characters out of 3144856
+ 333899 words of memory out of 3000000
  17047 multiletter control sequences out of 15000+200000
  50602 words of font info for 53 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
