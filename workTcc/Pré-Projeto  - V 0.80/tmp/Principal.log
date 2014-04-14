@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.2.8)  2 APR 2014 19:45
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.2.8)  11 APR 2014 12:11
 entering extended mode
 **Principal.tex
 
@@ -1165,37 +1165,29 @@ ncipal.toc") [2
 
 ])
 ("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto  - V 0.80\edi
-taveis/10_Introducao.tex")
-("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto  - V 0.80\edi
-taveis/Objetivos.tex" [3
+taveis/10_Introducao.tex" [3
 
-
-])
-("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto  - V 0.80\edi
-taveis/Justificativas.tex" [4
 
 ]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 10.
+(Font)              <10> on input line 108.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 10.
+(Font)              <7> on input line 108.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 10.
+(Font)              <5> on input line 108.
 )
 ("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto  - V 0.80\edi
-taveis/Metodologia.tex" [5
+taveis/Metodologia.tex" [4] [5
 
-] [6
-
-] [7])
+] [6])
 ("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto  - V 0.80\Pri
-ncipal.bbl" [8]
+ncipal.bbl" [7]
 bibitemlist
 )
 No file Principal.ind.
 
 AED: lastpage setting LastPage
-[9
+[8
 
 ]
 
@@ -1223,10 +1215,10 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 52.
  ) 
 Here is how much of TeX's memory you used:
- 14015 strings out of 493921
- 209654 string characters out of 3144856
- 333899 words of memory out of 3000000
- 17047 multiletter control sequences out of 15000+200000
+ 14000 strings out of 493921
+ 209087 string characters out of 3144856
+ 333898 words of memory out of 3000000
+ 17041 multiletter control sequences out of 15000+200000
  50602 words of font info for 53 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  46i,12n,40p,338b,429s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1234,9 +1226,9 @@ Here is how much of TeX's memory you used:
 m Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x8
 6)/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2
 .9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Principal.pdf (10 pages, 84434 bytes).
+Output written on Principal.pdf (9 pages, 82126 bytes).
 PDF statistics:
- 174 PDF objects out of 1000 (max. 8388607)
- 38 named destinations out of 1000 (max. 500000)
- 105 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 157 PDF objects out of 1000 (max. 8388607)
+ 35 named destinations out of 1000 (max. 500000)
+ 89 words of extra memory for PDF output out of 10000 (max. 10000000)
 
