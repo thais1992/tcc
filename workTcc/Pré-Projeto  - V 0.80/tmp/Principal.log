@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.2.8)  11 APR 2014 12:11
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.2.8)  16 APR 2014 08:41
 entering extended mode
 **Principal.tex
 
@@ -1147,47 +1147,32 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
 
 {C:/Users/Israel Cunha/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}])
 ("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto  - V 0.80\edi
-taveis/0B_Siglas.tex"pdfTeX warning (ext4): destination with the same identifie
-r (name{page.1}) has been already used, duplicate ignored
+taveis/10_Introducao.tex"pdfTeX warning (ext4): destination with the same ident
+ifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.15 \end{siglas}
-                  [1
+l.80 
+      [1
 
 
-
-
-])
-("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto  - V 0.80\fix
-os/0C_Sumario.tex"
-("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto  - V 0.80\Pri
-ncipal.toc") [2
-
-])
-("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto  - V 0.80\edi
-taveis/10_Introducao.tex" [3
 
 
 ]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 108.
+(Font)              <10> on input line 130.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 108.
+(Font)              <7> on input line 130.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 108.
+(Font)              <5> on input line 130.
 )
-("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto  - V 0.80\edi
-taveis/Metodologia.tex" [4] [5
-
-] [6])
 ("C:\Users\Israel Cunha\Documents\GitHub\tcc\workTcc\Pré-Projeto  - V 0.80\Pri
-ncipal.bbl" [7]
+ncipal.bbl" [2]
 bibitemlist
 )
 No file Principal.ind.
 
 AED: lastpage setting LastPage
-[8
+[3
 
 ]
 
@@ -1198,7 +1183,6 @@ See the caption package documentation for explanation.
 Package caption Warning: Unused \captionsetup[floatfoot] on input line 234.
 See the caption package documentation for explanation.
 
-\tf@toc=\write4
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 52.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 52.
 
@@ -1215,20 +1199,20 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 52.
  ) 
 Here is how much of TeX's memory you used:
- 14000 strings out of 493921
- 209087 string characters out of 3144856
- 333898 words of memory out of 3000000
- 17041 multiletter control sequences out of 15000+200000
- 50602 words of font info for 53 fonts, out of 3000000 for 9000
+ 13914 strings out of 493921
+ 206918 string characters out of 3144856
+ 333795 words of memory out of 3000000
+ 16989 multiletter control sequences out of 15000+200000
+ 49495 words of font info for 52 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 46i,12n,40p,338b,429s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 46i,11n,40p,338b,434s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
 m Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x8
 6)/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2
 .9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Principal.pdf (9 pages, 82126 bytes).
+Output written on Principal.pdf (4 pages, 59936 bytes).
 PDF statistics:
- 157 PDF objects out of 1000 (max. 8388607)
- 35 named destinations out of 1000 (max. 500000)
- 89 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 72 PDF objects out of 1000 (max. 8388607)
+ 14 named destinations out of 1000 (max. 500000)
+ 17 words of extra memory for PDF output out of 10000 (max. 10000000)
 

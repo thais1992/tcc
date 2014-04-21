@@ -5,8 +5,6 @@
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {INTRODU\IeC {\c C}\IeC {\~A}O}}{3}{chapter.1}
-\contentsline {section}{\numberline {1.1}Objetivo Geral}{3}{section.1.1}
-\contentsline {section}{\numberline {1.2}objetivo Espec\IeC {\'\i }fico}{4}{section.1.2}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {METODOLOGIA}}{5}{chapter.2}
 \contentsline {section}{\numberline {2.1}Tipo de Pesquisa}{5}{section.2.1}
