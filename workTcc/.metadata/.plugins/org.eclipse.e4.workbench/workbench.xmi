@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_lPQcwLSgEeOkq_162jPP4w" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_lPQcwbSgEeOkq_162jPP4w" bindingContexts="_lPQcw7SgEeOkq_162jPP4w">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;net.sourceforge.texlipse.TexEditor&quot; name=&quot;10_Introducao.tex&quot; tooltip=&quot;Pr&#xe9;-Projeto  - V 1.0/editaveis/10_Introducao.tex&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Pr&#xe9;-Projeto  - V 1.0/editaveis/10_Introducao.tex&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;net.sourceforge.texlipse.bibeditor.BibEditor&quot; name=&quot;biblio.bib&quot; tooltip=&quot;Pr&#xe9;-Projeto  - V 1.0/biblio.bib&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Pr&#xe9;-Projeto  - V 1.0/biblio.bib&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;net.sourceforge.texlipse.TexEditor&quot; name=&quot;Principal.tex&quot; tooltip=&quot;Pr&#xe9;-Projeto  - V 1.0/Principal.tex&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Pr&#xe9;-Projeto  - V 1.0/Principal.tex&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;net.sourceforge.texlipse.TexEditor&quot; name=&quot;Principal.tex&quot; tooltip=&quot;Modelo NuapaTex_Univas/Principal.tex&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Modelo NuapaTex_Univas/Principal.tex&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;net.sourceforge.texlipse.TexEditor&quot; name=&quot;11_QuadroTeorico.tex&quot; tooltip=&quot;Pr&#xe9;-Projeto  - V 1.0/editaveis/11_QuadroTeorico.tex&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Pr&#xe9;-Projeto  - V 1.0/editaveis/11_QuadroTeorico.tex&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;net.sourceforge.texlipse.TexEditor&quot; name=&quot;0B_Siglas.tex&quot; tooltip=&quot;Pr&#xe9;-Projeto  - V 0.80/editaveis/0B_Siglas.tex&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Pr&#xe9;-Projeto  - V 0.80/editaveis/0B_Siglas.tex&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;net.sourceforge.texlipse.bibeditor.BibEditor&quot; name=&quot;biblio.bib&quot; tooltip=&quot;Modelo NuapaTex_Univas/biblio.bib&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Modelo NuapaTex_Univas/biblio.bib&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;net.sourceforge.texlipse.bibeditor.BibEditor&quot; name=&quot;biblio.bib&quot; tooltip=&quot;Pr&#xe9;-Projeto  - V 0.80/biblio.bib&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Pr&#xe9;-Projeto  - V 0.80/biblio.bib&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;net.sourceforge.texlipse.TexEditor&quot; name=&quot;Objetivos.tex&quot; tooltip=&quot;Pr&#xe9;-Projeto  - V 0.80/editaveis/Objetivos.tex&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Pr&#xe9;-Projeto  - V 0.80/editaveis/Objetivos.tex&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;net.sourceforge.texlipse.TexEditor&quot; name=&quot;Justificativas.tex&quot; tooltip=&quot;Pr&#xe9;-Projeto  - V 0.80/editaveis/Justificativas.tex&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Pr&#xe9;-Projeto  - V 0.80/editaveis/Justificativas.tex&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;net.sourceforge.texlipse.TexEditor&quot; name=&quot;Principal.tex&quot; tooltip=&quot;Pr&#xe9;-Projeto  - V 0.80/Principal.tex&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Pr&#xe9;-Projeto  - V 0.80/Principal.tex&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;net.sourceforge.texlipse.TexEditor&quot; name=&quot;10_Introducao.tex&quot; tooltip=&quot;Pr&#xe9;-Projeto  - V 0.80/editaveis/10_Introducao.tex&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Pr&#xe9;-Projeto  - V 0.80/editaveis/10_Introducao.tex&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;net.sourceforge.texlipse.TexEditor&quot; name=&quot;NuapaStyle.sty&quot; tooltip=&quot;Modelo NuapaTex_Univas/styles/NuapaStyle.sty&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Modelo NuapaTex_Univas/styles/NuapaStyle.sty&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;net.sourceforge.texlipse.TexEditor&quot; name=&quot;00_Dados.tex&quot; tooltip=&quot;Pr&#xe9;-Projeto  - V 0.80/editaveis/00_Dados.tex&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Pr&#xe9;-Projeto  - V 0.80/editaveis/00_Dados.tex&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;net.sourceforge.texlipse.TexEditor&quot; name=&quot;document.tex&quot; tooltip=&quot;Pr&#xe9;-Projeto - V 0.10/document.tex&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Pr&#xe9;-Projeto - V 0.10/document.tex&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;net.sourceforge.texlipse.TexEditor&quot; name=&quot;0B_Siglas.tex&quot; tooltip=&quot;Pr&#xe9;-Projeto  - V 1.0/editaveis/0B_Siglas.tex&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Pr&#xe9;-Projeto  - V 1.0/editaveis/0B_Siglas.tex&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;net.sourceforge.texlipse.TexEditor&quot; name=&quot;Principal.tex&quot; tooltip=&quot;Pr&#xe9;-Projeto  - V 1.0/Principal.tex&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Pr&#xe9;-Projeto  - V 1.0/Principal.tex&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;net.sourceforge.texlipse.TexEditor&quot; name=&quot;12_QuadroMetodologico.tex&quot; tooltip=&quot;Pr&#xe9;-Projeto  - V 1.0/editaveis/12_QuadroMetodologico.tex&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Pr&#xe9;-Projeto  - V 1.0/editaveis/12_QuadroMetodologico.tex&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;net.sourceforge.texlipse.TexEditor&quot; name=&quot;10_Introducao.tex&quot; tooltip=&quot;Pr&#xe9;-Projeto  - V 1.0/editaveis/10_Introducao.tex&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Pr&#xe9;-Projeto  - V 1.0/editaveis/10_Introducao.tex&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;net.sourceforge.texlipse.bibeditor.BibEditor&quot; name=&quot;biblio.bib&quot; tooltip=&quot;Pr&#xe9;-Projeto  - V 1.0/biblio.bib&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Pr&#xe9;-Projeto  - V 1.0/biblio.bib&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;net.sourceforge.texlipse.TexEditor&quot; name=&quot;Principal.tex&quot; tooltip=&quot;Modelo NuapaTex_Univas/Principal.tex&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Modelo NuapaTex_Univas/Principal.tex&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;net.sourceforge.texlipse.TexEditor&quot; name=&quot;11_QuadroTeorico.tex&quot; tooltip=&quot;Pr&#xe9;-Projeto  - V 1.0/editaveis/11_QuadroTeorico.tex&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Pr&#xe9;-Projeto  - V 1.0/editaveis/11_QuadroTeorico.tex&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;net.sourceforge.texlipse.TexEditor&quot; name=&quot;0B_Siglas.tex&quot; tooltip=&quot;Pr&#xe9;-Projeto  - V 0.80/editaveis/0B_Siglas.tex&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Pr&#xe9;-Projeto  - V 0.80/editaveis/0B_Siglas.tex&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;net.sourceforge.texlipse.bibeditor.BibEditor&quot; name=&quot;biblio.bib&quot; tooltip=&quot;Modelo NuapaTex_Univas/biblio.bib&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Modelo NuapaTex_Univas/biblio.bib&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;net.sourceforge.texlipse.bibeditor.BibEditor&quot; name=&quot;biblio.bib&quot; tooltip=&quot;Pr&#xe9;-Projeto  - V 0.80/biblio.bib&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Pr&#xe9;-Projeto  - V 0.80/biblio.bib&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;net.sourceforge.texlipse.TexEditor&quot; name=&quot;Objetivos.tex&quot; tooltip=&quot;Pr&#xe9;-Projeto  - V 0.80/editaveis/Objetivos.tex&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Pr&#xe9;-Projeto  - V 0.80/editaveis/Objetivos.tex&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;net.sourceforge.texlipse.TexEditor&quot; name=&quot;Justificativas.tex&quot; tooltip=&quot;Pr&#xe9;-Projeto  - V 0.80/editaveis/Justificativas.tex&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Pr&#xe9;-Projeto  - V 0.80/editaveis/Justificativas.tex&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;net.sourceforge.texlipse.TexEditor&quot; name=&quot;Principal.tex&quot; tooltip=&quot;Pr&#xe9;-Projeto  - V 0.80/Principal.tex&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Pr&#xe9;-Projeto  - V 0.80/Principal.tex&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;net.sourceforge.texlipse.TexEditor&quot; name=&quot;10_Introducao.tex&quot; tooltip=&quot;Pr&#xe9;-Projeto  - V 0.80/editaveis/10_Introducao.tex&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Pr&#xe9;-Projeto  - V 0.80/editaveis/10_Introducao.tex&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;net.sourceforge.texlipse.TexEditor&quot; name=&quot;NuapaStyle.sty&quot; tooltip=&quot;Modelo NuapaTex_Univas/styles/NuapaStyle.sty&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Modelo NuapaTex_Univas/styles/NuapaStyle.sty&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_lPQcwbSgEeOkq_162jPP4w" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_lePT8rSgEeOkq_162jPP4w" label="%trimmedwindow.label.eclipseSDK" x="0" y="0" width="902" height="768">
@@ -35,15 +35,14 @@
           <tags>persp.viewSC:net.sourceforge.texlipse.TableView</tags>
           <tags>persp.newWizSC:net.sourceforge.texlipse.TexProjectWizard</tags>
           <tags>persp.newWizSC:net.sourceforge.texlipse.wizards.TexlipseNewTexFileWizard</tags>
-          <children xsi:type="basic:PartSashContainer" xmi:id="_okDOUbSgEeOkq_162jPP4w" selectedElement="_okDOU7SgEeOkq_162jPP4w" horizontal="true">
-            <children xsi:type="basic:PartStack" xmi:id="_okDOU7SgEeOkq_162jPP4w" elementId="org.eclipse.ui.navigator.ProjectExplorerMStack" containerData="2193" selectedElement="_okDOVLSgEeOkq_162jPP4w">
+          <children xsi:type="basic:PartSashContainer" xmi:id="_okDOUbSgEeOkq_162jPP4w" selectedElement="_okDOWLSgEeOkq_162jPP4w" horizontal="true">
+            <children xsi:type="basic:PartStack" xmi:id="_okDOU7SgEeOkq_162jPP4w" elementId="org.eclipse.ui.navigator.ProjectExplorerMStack" containerData="2065" selectedElement="_okDOVLSgEeOkq_162jPP4w">
               <tags>newtablook</tags>
-              <tags>active</tags>
               <children xsi:type="advanced:Placeholder" xmi:id="_okDOVLSgEeOkq_162jPP4w" elementId="org.eclipse.ui.navigator.ProjectExplorer" ref="_lsWBYLSgEeOkq_162jPP4w"/>
               <children xsi:type="advanced:Placeholder" xmi:id="_okDOVrSgEeOkq_162jPP4w" elementId="org.eclipse.ui.views.ContentOutline" ref="_lsYdoLSgEeOkq_162jPP4w"/>
               <children xsi:type="advanced:Placeholder" xmi:id="_okDOV7SgEeOkq_162jPP4w" elementId="net.sourceforge.texlipse.FullOutline" ref="_okBZILSgEeOkq_162jPP4w"/>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_okDOWLSgEeOkq_162jPP4w" containerData="7807" selectedElement="_okDOWbSgEeOkq_162jPP4w">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_okDOWLSgEeOkq_162jPP4w" containerData="7935" selectedElement="_okDOWbSgEeOkq_162jPP4w">
               <children xsi:type="advanced:Placeholder" xmi:id="_okDOWbSgEeOkq_162jPP4w" elementId="org.eclipse.ui.editorss" containerData="7000" ref="_lsFisLSgEeOkq_162jPP4w"/>
               <children xsi:type="basic:PartStack" xmi:id="_okDOWrSgEeOkq_162jPP4w" elementId="bottom" visible="false" containerData="3000" selectedElement="_okDOW7SgEeOkq_162jPP4w">
                 <tags>newtablook</tags>
@@ -82,12 +81,13 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_lsFisLSgEeOkq_162jPP4w" elementId="org.eclipse.ui.editorss" selectedElement="_lsFisbSgEeOkq_162jPP4w">
-      <children xsi:type="basic:PartStack" xmi:id="_lsFisbSgEeOkq_162jPP4w" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_yYO6gM6REeOCPoMzM2TQAw">
+      <children xsi:type="basic:PartStack" xmi:id="_lsFisbSgEeOkq_162jPP4w" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_Ff6PANPBEeOkab3dBwEAGg">
         <tags>newtablook</tags>
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
+        <tags>active</tags>
         <children xsi:type="basic:Part" xmi:id="_uDXMAM6REeOCPoMzM2TQAw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Principal.tex" iconURI="platform:/plugin/net.sourceforge.texlipse/icons/texfile.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;net.sourceforge.texlipse.TexEditor&quot; name=&quot;Principal.tex&quot; partName=&quot;Principal.tex&quot; title=&quot;Principal.tex&quot; tooltip=&quot;Pr&#xe9;-Projeto  - V 1.0/Principal.tex&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Pr&#xe9;-Projeto  - V 1.0/Principal.tex&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;62&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;net.sourceforge.texlipse.TexEditor&quot; name=&quot;Principal.tex&quot; partName=&quot;Principal.tex&quot; title=&quot;Principal.tex&quot; tooltip=&quot;Pr&#xe9;-Projeto  - V 1.0/Principal.tex&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Pr&#xe9;-Projeto  - V 1.0/Principal.tex&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;474&quot; selectionTopPixel=&quot;190&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>net.sourceforge.texlipse.TexEditor</tags>
           <tags>removeOnHide</tags>
@@ -99,7 +99,21 @@
           <tags>removeOnHide</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_yYO6gM6REeOCPoMzM2TQAw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="10_Introducao.tex" iconURI="platform:/plugin/net.sourceforge.texlipse/icons/texfile.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;net.sourceforge.texlipse.TexEditor&quot; name=&quot;10_Introducao.tex&quot; partName=&quot;10_Introducao.tex&quot; title=&quot;10_Introducao.tex&quot; tooltip=&quot;Pr&#xe9;-Projeto  - V 1.0/editaveis/10_Introducao.tex&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Pr&#xe9;-Projeto  - V 1.0/editaveis/10_Introducao.tex&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;810&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;net.sourceforge.texlipse.TexEditor&quot; name=&quot;10_Introducao.tex&quot; partName=&quot;10_Introducao.tex&quot; title=&quot;10_Introducao.tex&quot; tooltip=&quot;Pr&#xe9;-Projeto  - V 1.0/editaveis/10_Introducao.tex&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Pr&#xe9;-Projeto  - V 1.0/editaveis/10_Introducao.tex&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;476&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>net.sourceforge.texlipse.TexEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_Ff6PANPBEeOkab3dBwEAGg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="12_QuadroMetodologico.tex" iconURI="platform:/plugin/net.sourceforge.texlipse/icons/texfile.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;net.sourceforge.texlipse.TexEditor&quot; name=&quot;12_QuadroMetodologico.tex&quot; partName=&quot;12_QuadroMetodologico.tex&quot; title=&quot;12_QuadroMetodologico.tex&quot; tooltip=&quot;Pr&#xe9;-Projeto  - V 1.0/editaveis/12_QuadroMetodologico.tex&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Pr&#xe9;-Projeto  - V 1.0/editaveis/12_QuadroMetodologico.tex&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;60&quot; selectionTopPixel=&quot;366&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>net.sourceforge.texlipse.TexEditor</tags>
+          <tags>removeOnHide</tags>
+          <tags>active</tags>
+          <tags>activeOnClose</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_I_DD0NPLEeOOdY8ISpONkQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="0B_Siglas.tex" iconURI="platform:/plugin/net.sourceforge.texlipse/icons/texfile.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;net.sourceforge.texlipse.TexEditor&quot; name=&quot;0B_Siglas.tex&quot; partName=&quot;0B_Siglas.tex&quot; title=&quot;0B_Siglas.tex&quot; tooltip=&quot;Pr&#xe9;-Projeto  - V 1.0/editaveis/0B_Siglas.tex&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Pr&#xe9;-Projeto  - V 1.0/editaveis/0B_Siglas.tex&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;3&quot; selectionOffset=&quot;464&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>net.sourceforge.texlipse.TexEditor</tags>
           <tags>removeOnHide</tags>
@@ -127,8 +141,6 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; currentWorkingSetName=&quot;Aggregate for window 1395808757246&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;/>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
-      <tags>active</tags>
-      <tags>activeOnClose</tags>
       <menus xmi:id="_okWJQLSgEeOkq_162jPP4w" elementId="org.eclipse.ui.navigator.ProjectExplorer">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -136,7 +148,7 @@
       <toolbar xmi:id="_okWJQbSgEeOkq_162jPP4w" elementId="org.eclipse.ui.navigator.ProjectExplorer"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_lsWBYbSgEeOkq_162jPP4w" elementId="org.eclipse.ui.views.ProblemView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Problems" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/problems_view.gif" closeable="true">
-      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view PRIMARY_SORT_FIELD=&quot;org.eclipse.ui.ide.severityAndDescriptionField&quot; categoryGroup=&quot;org.eclipse.ui.ide.severity&quot; markerContentGenerator=&quot;org.eclipse.ui.ide.problemsGenerator&quot; partName=&quot;Problems&quot;>&#xD;&#xA;&lt;expanded>&#xD;&#xA;&lt;category IMemento.internal.id=&quot;Warnings (10 items)&quot;/>&#xD;&#xA;&lt;/expanded>&#xD;&#xA;&lt;columnWidths org.eclipse.ui.ide.locationField=&quot;90&quot; org.eclipse.ui.ide.markerType=&quot;90&quot; org.eclipse.ui.ide.pathField=&quot;120&quot; org.eclipse.ui.ide.resourceField=&quot;90&quot; org.eclipse.ui.ide.severityAndDescriptionField=&quot;300&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.severityAndDescriptionField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.resourceField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.pathField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.locationField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.markerType&quot;/>&#xD;&#xA;&lt;/view>"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view PRIMARY_SORT_FIELD=&quot;org.eclipse.ui.ide.severityAndDescriptionField&quot; categoryGroup=&quot;org.eclipse.ui.ide.severity&quot; markerContentGenerator=&quot;org.eclipse.ui.ide.problemsGenerator&quot; partName=&quot;Problems&quot;>&#xD;&#xA;&lt;expanded>&#xD;&#xA;&lt;category IMemento.internal.id=&quot;Warnings (21 items)&quot;/>&#xD;&#xA;&lt;/expanded>&#xD;&#xA;&lt;columnWidths org.eclipse.ui.ide.locationField=&quot;90&quot; org.eclipse.ui.ide.markerType=&quot;90&quot; org.eclipse.ui.ide.pathField=&quot;120&quot; org.eclipse.ui.ide.resourceField=&quot;90&quot; org.eclipse.ui.ide.severityAndDescriptionField=&quot;300&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.severityAndDescriptionField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.resourceField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.pathField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.locationField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.markerType&quot;/>&#xD;&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
       <menus xmi:id="_l1zfYLSgEeOkq_162jPP4w" elementId="org.eclipse.ui.views.ProblemView">
@@ -244,41 +256,41 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_lfi7gLSgEeOkq_162jPP4w" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_5_JeAM6QEeOCPoMzM2TQAw" elementId="new.group">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_Y7yuANPDEeOOdY8ISpONkQ" elementId="new.group">
           <tags>Opaque</tags>
         </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_5_JeAc6QEeOCPoMzM2TQAw" elementId="newWizardDropDown">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_Y7zVENPDEeOOdY8ISpONkQ" elementId="newWizardDropDown">
           <tags>Opaque</tags>
         </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_5_JeAs6QEeOCPoMzM2TQAw" elementId="new.ext" visible="false">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_Y7zVEdPDEeOOdY8ISpONkQ" elementId="new.ext" visible="false">
           <tags>Opaque</tags>
         </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_5_JeA86QEeOCPoMzM2TQAw" elementId="save.group" visible="false">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_Y7zVEtPDEeOOdY8ISpONkQ" elementId="save.group" visible="false">
           <tags>Opaque</tags>
         </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_5_JeBM6QEeOCPoMzM2TQAw" elementId="save">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_Y7zVE9PDEeOOdY8ISpONkQ" elementId="save">
           <tags>Opaque</tags>
         </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_5_JeBc6QEeOCPoMzM2TQAw" elementId="saveAll">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_Y7zVFNPDEeOOdY8ISpONkQ" elementId="saveAll">
           <tags>Opaque</tags>
         </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_5_JeBs6QEeOCPoMzM2TQAw" elementId="save.ext" visible="false">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_Y7z8INPDEeOOdY8ISpONkQ" elementId="save.ext" visible="false">
           <tags>Opaque</tags>
         </children>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_5_JeB86QEeOCPoMzM2TQAw" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_lQBR07SgEeOkq_162jPP4w"/>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_5_TPAM6QEeOCPoMzM2TQAw" elementId="print.ext" visible="false">
+        <children xsi:type="menu:HandledToolItem" xmi:id="_Y7z8IdPDEeOOdY8ISpONkQ" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_lQBR07SgEeOkq_162jPP4w"/>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_Y73mgNPDEeOOdY8ISpONkQ" elementId="print.ext" visible="false">
           <tags>Opaque</tags>
         </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_5_TPAc6QEeOCPoMzM2TQAw" elementId="build.group">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_Y73mgdPDEeOOdY8ISpONkQ" elementId="build.group">
           <tags>Opaque</tags>
         </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_5_TPAs6QEeOCPoMzM2TQAw" elementId="build.ext" visible="false">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_Y73mgtPDEeOOdY8ISpONkQ" elementId="build.ext" visible="false">
           <tags>Opaque</tags>
         </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_5_TPA86QEeOCPoMzM2TQAw" elementId="additions">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_Y74NkNPDEeOOdY8ISpONkQ" elementId="additions">
           <tags>Opaque</tags>
         </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_6IEwgM6QEeOCPoMzM2TQAw" elementId="org.eclipse.wb.core.wizards.actions.NewDesignerTypeDropDownAction">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_ZFbyMNPDEeOOdY8ISpONkQ" elementId="org.eclipse.wb.core.wizards.actions.NewDesignerTypeDropDownAction">
           <tags>Opaque</tags>
         </children>
       </children>
@@ -442,6 +454,24 @@
           <tags>Opaque</tags>
         </children>
         <children xsi:type="menu:DirectToolItem" xmi:id="_6IXrcM6QEeOCPoMzM2TQAw" elementId="org.eclipse.ui.externaltools.ExternalToolMenuDelegateToolbar">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_j4p10M8xEeOHeNR2gd-VJQ" elementId="debug">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_j4rD8M8xEeOHeNR2gd-VJQ" elementId="org.eclipse.ui.externaltools.ExternalToolMenuDelegateToolbar">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_Can5ENPBEeOkab3dBwEAGg" elementId="debug">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_Caq8YNPBEeOkab3dBwEAGg" elementId="org.eclipse.ui.externaltools.ExternalToolMenuDelegateToolbar">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_ZFhRwNPDEeOOdY8ISpONkQ" elementId="debug">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_ZFif4NPDEeOOdY8ISpONkQ" elementId="org.eclipse.ui.externaltools.ExternalToolMenuDelegateToolbar">
           <tags>Opaque</tags>
         </children>
       </children>
@@ -696,6 +726,33 @@
         <children xsi:type="menu:DirectToolItem" xmi:id="_6IXrc86QEeOCPoMzM2TQAw" elementId="org.eclipse.search.OpenSearchDialogPage">
           <tags>Opaque</tags>
         </children>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_j4rrAM8xEeOHeNR2gd-VJQ" elementId="Search">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_j4s5IM8xEeOHeNR2gd-VJQ" elementId="org.eclipse.mylyn.tasks.ui.openTask">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_j4uHQM8xEeOHeNR2gd-VJQ" elementId="org.eclipse.search.OpenSearchDialogPage">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_CavN0NPBEeOkab3dBwEAGg" elementId="Search">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_Cay4MNPBEeOkab3dBwEAGg" elementId="org.eclipse.mylyn.tasks.ui.openTask">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_Ca3wsNPBEeOkab3dBwEAGg" elementId="org.eclipse.search.OpenSearchDialogPage">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_ZFjuANPDEeOOdY8ISpONkQ" elementId="Search">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_ZFk8INPDEeOOdY8ISpONkQ" elementId="org.eclipse.mylyn.tasks.ui.openTask">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_ZFmKQNPDEeOOdY8ISpONkQ" elementId="org.eclipse.search.OpenSearchDialogPage">
+          <tags>Opaque</tags>
+        </children>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_lfi7g7SgEeOkq_162jPP4w" elementId="group.nav" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -703,29 +760,29 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_lfjikLSgEeOkq_162jPP4w" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_5_TPBM6QEeOCPoMzM2TQAw" elementId="history.group">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_Y74NkdPDEeOOdY8ISpONkQ" elementId="history.group">
           <tags>Opaque</tags>
         </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_5_TPBc6QEeOCPoMzM2TQAw" elementId="group.application" visible="false">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_Y740oNPDEeOOdY8ISpONkQ" elementId="group.application" visible="false">
           <tags>Opaque</tags>
         </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_5_TPBs6QEeOCPoMzM2TQAw" elementId="backardHistory">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_Y740odPDEeOOdY8ISpONkQ" elementId="backardHistory">
           <tags>Opaque</tags>
         </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_5_TPB86QEeOCPoMzM2TQAw" elementId="forwardHistory">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_Y740otPDEeOOdY8ISpONkQ" elementId="forwardHistory">
           <tags>Opaque</tags>
         </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_5_TPCM6QEeOCPoMzM2TQAw" elementId="pin.group">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_Y740o9PDEeOOdY8ISpONkQ" elementId="pin.group">
           <tags>Opaque</tags>
         </children>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_5_TPCc6QEeOCPoMzM2TQAw" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_lP59BLSgEeOkq_162jPP4w"/>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_6IXrdM6QEeOCPoMzM2TQAw" elementId="org.eclipse.ui.edit.text.gotoNextAnnotation">
+        <children xsi:type="menu:HandledToolItem" xmi:id="_Y75bsNPDEeOOdY8ISpONkQ" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_lP59BLSgEeOkq_162jPP4w"/>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_ZFn_cNPDEeOOdY8ISpONkQ" elementId="org.eclipse.ui.edit.text.gotoNextAnnotation">
           <tags>Opaque</tags>
         </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_6IXrdc6QEeOCPoMzM2TQAw" elementId="org.eclipse.ui.edit.text.gotoPreviousAnnotation">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_ZFp0oNPDEeOOdY8ISpONkQ" elementId="org.eclipse.ui.edit.text.gotoPreviousAnnotation">
           <tags>Opaque</tags>
         </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_6IhccM6QEeOCPoMzM2TQAw" elementId="org.eclipse.ui.edit.text.gotoLastEditPosition">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_ZFrp0NPDEeOOdY8ISpONkQ" elementId="org.eclipse.ui.edit.text.gotoLastEditPosition">
           <tags>Opaque</tags>
         </children>
       </children>
@@ -739,10 +796,10 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_lfkJorSgEeOkq_162jPP4w" elementId="org.eclipse.ui.workbench.help" visible="false">
         <tags>Draggable</tags>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_5_TPCs6QEeOCPoMzM2TQAw" elementId="group.help">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_Y76CwNPDEeOOdY8ISpONkQ" elementId="group.help">
           <tags>Opaque</tags>
         </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_5_TPC86QEeOCPoMzM2TQAw" elementId="group.application" visible="false">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_Y76p0NPDEeOOdY8ISpONkQ" elementId="group.application" visible="false">
           <tags>Opaque</tags>
         </children>
       </children>
