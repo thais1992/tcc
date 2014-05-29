@@ -1,0 +1,22 @@
+%Lista de siglas
+%ver http://marc.info/?l=tex-br&m=110566665520790 para colocar em ordem alfabética.
+
+\begin{SingleSpace}
+
+\begin{siglas}
+\item[LAN] \textit{Local Area Network}
+\item[LAN] \textit{Local Area Network}
+\item[MRTG] \textit{The Multi Router Trafic Grafic}
+\item[SNMP] \textit{Simple Network Management Protocol}
+\item[IP] \textit{Internet Protocol}
+\item[XP] \textit{Extreme Programming}
+\item[RUP] \textit{Rational Unified Process}
+\item[TCP] \textit{Transfer Control Protocol}
+\item[GUI] \textit{Graphical User Interface}
+\item[UCLA] \textit{University of California} em Los Angeles 
+\item[UCSB] \textit{University of California} em Santa Barbara
+\item[SRI] \textit{Stanford Research Institute}
+
+\end{siglas}
+
+\end{SingleSpace}

@@ -1,0 +1,34 @@
+
+\titulo{Gerência de Redes SMNP}
+
+%autores em ordem alfabéticas
+\autor{Israel José da Cunha}
+\autorCitacao{Cunha, Israel José da }
+\autorCitacaoMaiuscula{Cunha, Israel José da}
+\autorUm{Israel José da Cunha}
+%\autorDois{Israel José da Cunha} 
+
+\data{2014}%ano
+\instituicao{Universidade do Vale do Sapucaí}
+\local{Pouso Alegre -- MG}
+\curso{Sistemas de Informação}
+\tipotrabalho{Projeto de Pesquisa de Curso (graduação)}
+\dataDaAprovacao{         }  %Colocar data da aprovação no final
+
+\palavraChaveUm{SMNP}
+\palavraChaveDois{Redes}
+\palavraChaveTres{Gerência}
+
+\keyWordOne{SMNP}
+\keyWordTwo{Network}
+\keyWordThree{Manager}
+
+%variar as configurações de professora e professor como desejar
+\avaliadorUm{Prof$^a$. MSc. Nome da professora}
+\avaliadorLabelUm{Avaliadoro (a)}
+\avaliadorDois{Prof. MSc. Nome do professor}
+
+\orientador[Orientador]{Prof. Ms. Márcio Emílio Cruz Vono Azevedo}
+\preambulo{Projeto de pesquisa apresentado a banca de qualificação como
+requisto parcial à obtenção de créditos junto á Disciplina de TCC I do curso
+de sistemas de informação.}

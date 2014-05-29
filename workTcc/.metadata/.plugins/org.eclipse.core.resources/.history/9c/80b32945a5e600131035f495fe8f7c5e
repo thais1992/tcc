@@ -1,0 +1,158 @@
+%bibliografias no formato bibtex
+
+% http://books.google.com.br/books?id=3haJdQ9KRLEC&printsec=frontcover&hl=pt-BR&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
+@Book{Pesquisa_Ciribelli,
+  author = 	 {Marilda Corrêa Ciribelli},
+  title = 	 {Como elaborar uma dissertação de mestrado através da pesquisa científica},
+  publisher = 	 {Rio de Janeiro: 7 LETRAS},
+  year = 	 {2003},
+}
+
+%Java em Rede - Programação distribuida na internet
+%http://books.google.com.br/books?id=_Fr0ooiSIYUC&printsec=frontcover&dq=Java+em+rede:+Recursos+avan%C3%A7ados+de+programa%C3%A7%C3%A3o&hl=pt-BR&sa=X&ei=smUxU8-XEc-lkQeErYCYDw&ved=0CEEQ6AEwAQ#v=onepage&q=Java%20em%20rede%3A%20Recursos%20avan%C3%A7ados%20de%20programa%C3%A7%C3%A3o&f=false
+
+%http://books.google.com.br/books?id=W4oBsv7lifMC&printsec=frontcover&dq=Java+em+rede:+Recursos+avan%C3%A7ados+de+programa%C3%A7%C3%A3o&hl=pt-BR&sa=X&ei=smUxU8-XEc-lkQeErYCYDw&ved=0CDsQ6AEwAA#v=onepage&q=Java%20em%20rede%3A%20Recursos%20avan%C3%A7ados%20de%20programa%C3%A7%C3%A3o&f=false
+@Book{Java_Costa_Avancado,
+  author = 	 {Daniel Gouveia Costa},
+  title = 	 {Java em rede: Recursos avançados de programação},
+  publisher = 	 {Rio de Janeiro: Brasport},
+  year = 	 {2008},
+}
+
+% http://books.google.com.br/books?id=s-OMAgAAQBAJ&pg=PA500&dq=AMA:+Manual+de+Gerenciamento+de+Projetos&hl=pt-BR&sa=X&ei=FWYxU7vmJc6jkQfw8ICQCg&ved=0CEkQ6AEwAA#v=onepage&q=AMA%3A%20Manual%20de%20Gerenciamento%20de%20Projetos&f=false
+@Book{Projetos_Cabanis-brewin,
+  author = 	 {Paul C. Dinsmore and Jeannette Cabannis-Brewin},
+  title = 	 {AMA: Manual de Gerenciamento de Projetos},
+  publisher = 	 {Rio de Janeiro: Brasport},
+  year = 	 {2014},
+}
+
+%2007
+%http://books.google.com.br/books?id=FIaDr9ZtwXgC&printsec=frontcover&dq=Comunica%C3%A7%C3%A3o+de+dados+e+redes+de+computadores&hl=pt-BR&sa=X&ei=tWYxU46UHYahkQe7tIGwAg&ved=0CDsQ6AEwAA#v=onepage&q=Comunica%C3%A7%C3%A3o%20de%20dados%20e%20redes%20de%20computadores&f=false
+
+@Book{Redes_Forouzan,
+  author = 	 {Behrouz A. Forouzan},
+  title = 	 {Comunicação de dados e redes de computadores},
+  publisher = 	 {Porto Alegre: Bookman},
+  year = 	 {2006},
+}
+
+%http://books.google.com.br/books?id=57BIAgAAQBAJ&printsec=frontcover&dq=Redes+de+Computadores+-+Uma+Abordagem+Top-Down&hl=pt-BR&sa=X&ei=EGcxU4yNEIrakQfT2YC4Aw&ved=0CD8Q6AEwAQ#v=onepage&q=Redes%20de%20Computadores%20-%20Uma%20Abordagem%20Top-Down&f=false
+@Book{Redes_Mosharraf_Forouza,
+  author = 	 {Behrouz A. Forouzan and Firouz Mosharra},
+  title = 	 {Redes de Computadores - Uma Abordagem Top-Down},
+  publisher = 	 {Porto Alegre: Bookman},
+  year = 	 {2013},
+}
+
+% http://books.google.com.br/books?id=72nMi8qNRJsC&pg=PA33&dq=Metodologia+da+pesquisa:+Abordagem+te%C3%B3rico-pr%C3%A1tico&hl=pt-BR&sa=X&ei=YmcxU-CHNoPfkQe1qYGIBw&ved=0CDsQ6AEwAA#v=onepage&q=Metodologia%20da%20pesquisa%3A%20Abordagem%20te%C3%B3rico-pr%C3%A1tico&f=false
+@Book{Pesquisa_Padua,
+  author = 	 {Elisabete Matallo Marchesini de Padua},
+  title = 	 {Metodologia da pesquisa: Abordagem teórico-prático},
+  publisher = 	 {São Paulo: Papirus},
+  year = 	 {2004}
+  
+}
+
+% http://books.google.com.br/books?id=REvrU90M2OUC&printsec=frontcover&hl=pt-BR&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
+@Book{Pesquisa_Santos_Candeloro,
+  author = 	 {Vanice dos Santos and Rosana J. Candeloro},
+  title = 	 {Trabalhos acadêmicos: Uma orientação para a pesquisa e normas técnicas},
+  publisher = 	 {Porto Alegre: AGE},
+  year = 	 {2006}
+  
+}
+
+% http://books.google.com.br/books?id=Oot9S0RLWjwC&printsec=frontcover&dq=pesquisa+aplicada&hl=pt-BR&sa=X&ei=REOGU8T0OM-KqAb1hYCQCw&ved=0CDgQ6AEwAA#v=onepage&q=pesquisa%20aplicada&f=false
+% PDF Book
+@Book{Pequisa_Dulce_Perdigão,
+  author = 	 {Dulce Mantela Perdigão and Maximiliano Herlinger and Oriana Monarca White and Adélia Franceschini},
+  title = 	 {SNMP Essencial},
+  publisher = 	 {Rio de Janeiro: Campus},
+  year = 	 {2001},
+}
+
+
+% PDF Book
+@Book{SNMP_Schmidt_Mauro,
+  author = 	 {Douglas R. Mauro and Kevin J. Schmidt},
+  title = 	 {SNMP Essencial},
+  publisher = 	 {Rio de Janeiro: Campus},
+  year = 	 {2001},
+}
+
+% PDF Book
+@Book{Redes_Comer,
+  author = 	 {Douglas E. Comer},
+  title = 	 {Redes de Computadores e internet: Abrange transmissão de dados, ligações inter-redes, web e aplicações},
+  publisher = 	 {Ed.4 - Porto Alegre: Bookman},
+  year = 	 {2007},
+}
+
+% PDF Book
+@Book{Redes_Guia_adm_redes_linux,
+  author = 	 {Olaf Kirch},
+  title = 	 {Guia do Administrador de Redes Linux},
+  publisher = 	 {Curitiba: Conectiva},
+  year = 	 {1999},
+}
+
+% PDF Book
+@Book{UML_Silva_Videira,
+  author = 	 {Alberto Manuel Rodrigues da Silva and Carlos Alberto Escaleira Videira},
+  title = 	 {UML, Metodologias e Ferramentas CASE},
+  publisher = 	 {Lisboa: Atlântico},
+  year = 	 {2001},
+}
+
+% PDF Book
+@Book{Redes_Tanenbaum,
+  author = 	 {Andrew S. Tanenbaum},
+  title = 	 {Redes de Computadores},
+  publisher = 	 {Rio de Janeiro: Campus},
+  year = 	 {2003},
+}
+
+% PDF Book
+@Book{Pesquisa_Freitas_Prodanov,
+  author = 	 {Cleber Cristiano Prodanov and Ernani Cesar de Freitas},
+  title = 	 {Metodologia do trabalho científico: Métodos e Técnicas da Pesquisa e do Trabalho Acadêmico},
+  publisher = 	 {Novo Hamburgo: Feevale},
+  year = 	 {2013},
+}
+
+
+% PDF Book
+@Book{Java_Deitel_6edition,
+  author = 	 {H. M. Deitel and P. J. Deitel},
+  title = 	 {Java: Como Programar},
+  publisher = 	 {6.Ed - São Paulo: Pearson},
+  year = 	 {2005},
+}
+
+% PDF Book
+@Book{UML_Case_Driven,
+  author = 	 {Doug Rosenberg and Matt Stephens},
+  title = 	 {Use Case Driven Object Modeling with UML: Theory and Practice},
+  publisher = 	 {New York: Apress},
+  year = 	 {2007},
+}
+
+
+@Misc{Artigo_SNMP_Lecia,
+  howpublished = {\url{http://www.logicengenharia.com.br/mcamara/alunos/SNMP_Lecia.PDF}},
+  title = {O Protocolo SNMP},
+  note = {Acessado em 13/04/2014},
+  author = {Lécia de Souza Oliveira},
+  institution = {Universidade Católica do Salvador},
+  year = {2010}
+}
+
+@Misc{Artigo_RFC_1157,
+  howpublished = {\url{http://www.ietf.org/rfc/rfc1157.txt}},
+  title = {A Simple Network Management Protocol (SNMP)},
+  note = {Acessado em 13/04/2014},
+  author = { J. Case and M. Fedor and  M. Schoffstall and J. Davin},
+  institution = { MIT Laboratory for Computer Science},
+  year = {1990}
+}
