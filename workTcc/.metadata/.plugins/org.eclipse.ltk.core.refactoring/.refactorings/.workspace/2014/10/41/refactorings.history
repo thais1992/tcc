@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 6 resources" deleteContents="false" description="Delete 6 resources" element1="/4 Projeto  - V 0.80 (Entrega Introdução )/imagens/1-6.gif" element2="/4 Projeto  - V 0.80 (Entrega Introdução )/imagens/2-6.gif" element3="/4 Projeto  - V 0.80 (Entrega Introdução )/imagens/3-6.gif" element4="/4 Projeto  - V 0.80 (Entrega Introdução )/imagens/4-6.gif" element5="/4 Projeto  - V 0.80 (Entrega Introdução )/imagens/5-6.gif" element6="/4 Projeto  - V 0.80 (Entrega Introdução )/imagens/6-6.gif" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="6" stamp="1412624892625"/>
+</session>
