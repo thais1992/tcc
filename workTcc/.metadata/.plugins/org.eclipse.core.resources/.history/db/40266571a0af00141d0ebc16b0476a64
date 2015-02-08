@@ -1,0 +1,384 @@
+\chapter{METODOLOGIA}
+
+
+%
+%	*  Tipos de Pesquisa: ( Pesquisa Aplicada / Pesquisa de intervenção )
+%	* 
+%		* Definir a pesquisa
+%		* O porquê da pesquisa
+%		* de 3 a 4 paragráfos
+
+
+\par A metodologia de pesquisa utilizada neste trabalho será aplicada, onde o
+principal foco deste tipo de pesquisa é a geração de conhecimento, dentro de um
+espaço curto de tempo, propondo a aplicação prática da metodologia, tendo como
+foco um meio de resolver um problema ou uma necessidade de maneira única, cujo o
+problema tenha realação e participação com os ambientes locais e regionais.
+
+%\par Segundo \citeonline{Pesquisa_Dulce_Perdigão}, 
+
+%\begin{citacao}
+		
+%\end{citacao}
+
+\section{Tipo de Pesquisa}
+
+\par A pesquisas será qualitativa, para \citeonline{artigo_USP_Pesquisa}, o
+método de pesquisa qualitativa presenta método focado em uma direção, durante o
+tempo de desenvolvimento; Este tipo de pesquisa não busca mensurar dados, o foco
+é muito mais amplo e direcionado.
+
+% Contexto da pesquisa
+
+\section{Contexto da Pesquisa}
+
+
+\par Para auxiliar à pesquisa serão utilizados livros, manuais, tutoriais,
+trabalhos e artigos acadêmicos e páginas da internet. Utilizando tanto quanto 
+para o embasamento teórico tanto quanto para o prático.
+
+
+
+\section{Participantes}
+
+%  Participantes : ( Lugar, o que faz, como vai ajudar, pra que serve )
+
+\par Este projeto é escrito por:
+\par Israel José da Cunha
+\par Graduando em Sistemas de Informação na UNIVAS - Universidade do Vale do
+Sapucaí 
+\par Professor de informática básica, Intermediária, avançada e aplicada na
+Tecnologia.com - Escola Profissionalizante
+\par Professor de Tecnologia da Informação no Estado de Minas Gerais - Escola
+Estadual Professora Maria Vitorino de Souza.
+
+
+
+\par Sob a arientação de:
+\par Márcio Emílio Cruz Vono de Azevedo
+\par Graduação em Engenharia Elétrica, modalidade Eletrônica pelo Inatel -
+Instituto Nacional de Telecomunicações
+\par Mestrado em Ciência e Tecnologia da Computação pela UNIFEI - Universidade
+Federal de Itajubá
+\par Professor no curso de Sistemas de Informação da UNIVÁS - Universidade do
+Vale do Sapucaí
+\par Professor no curso de Engenharia da Computação do Inatel - Instituto
+Nacional de Telecomunicações
+\par Especialista em Sistemas no Inatel - Instituto Nacional de Telecomunicações
+
+
+
+
+\section{Instrumentos}
+
+%	*  Instrumentos
+%		* Reuniões
+%			* Temática - Discussão do tema - Mais aberto permitindo o posicionamento das
+%			% integrante * Entrevistas
+%			* Estruturadas - Faz a pergunta ela dá a resposta e não mudança de assunto
+%			% forçando isso.
+%			* Semi Estruturadas -  Entre a estruturada e a aberta o meio termo
+%			* Abertas - Totalmente Aberta
+
+%		* Questionários 
+%			* Fechados - Respostas em "x" 
+%			* Abertos 
+%			* Mistos
+
+%Normalmente aplica-se o questionário depois as entrevistas e finalizando com a
+% reunião para fechar as opiniões.
+
+%Precisa aparecer no projeto:
+
+%	* Qual o instrumento ?
+%	* Qual a definição deste instrumento ? Ex: segundo lakato entrevista é ...
+%	* Qual o objetivo do instrumento ? (O porquê do instrumento ?)
+%	* Qual a periodicidade ?
+
+\par A pesquisa é um meio de fomentar a coleta dados, de acordo com
+\citeonline{Pesquisa_Lakatos}, os instrumentos de pesquisa contém “desde os
+tópicos da entrevista, passando pelo questionário e formulário, 
+até os teste ou escala de medidas de opiniões e atitudes”.
+
+\subsection{Reunião}
+
+\par Serão realizadas reuniões presenciais e virtuais com o professor
+orientador, para a discussão dos requisitos, da usabilidade, 
+dos processos de engenharia de software e desenvolvimento, questões 
+teóricas sobre a aplicabilidade e a orientação para o desenvolvimento do
+projeto, será também feito reunião com pessoas que atuam na área para coletar
+experiência de campo.
+
+\par Todas as reuniões terão cárter aberto, para livre habitrio dos
+participantes.
+
+\subsection{Troca de e-mails}
+
+\par Será feito de forma colaborativa, as orientações e modificações, através de
+e-mails, para facilitar o transporte de dados e informação de forma ágil e
+simples, sem causar dados as outras atividades paralelas.
+
+
+\section{Procedimentos}
+%   Procedimentos 
+%	* Passo-a-passo para o desenvolvimento do software.
+%		* Imaginar tudo que vai ter que fazer para fazer o sistema
+%			* Todas as ações que poderão ser desenvolvidas
+%			* Em tópicos
+%			* Em ordem cronológica
+
+
+
+\begin{itemize}
+  \item Análise de Requisitos - Elaboração do plano de execução do projeto de
+  desenvolvimento de software.
+  \item Implementação do ICONIX - Elaboração dos Digramas de Sistema
+  	
+  	\begin{itemize}
+ 	 	\item Análise de requisitos
+  		\item Análise e desempenho preliminar
+  		\item Desenhos
+  		\item Implementação
+	\end{itemize}
+  	
+  \item Revisão do ICONIX
+  
+  	 \begin{itemize}
+ 	 	\item Análise de requisitos
+  		\item Análise e desempenho preliminar
+  		\item Desenhos
+  		\item Implementação
+	\end{itemize}
+	
+  \item Codificação do projeto 
+  		
+  	\begin{itemize}
+  	  \item Preparação do Ambiente de Desenvolvimento
+  	  \item Adequação das bibliotecas 
+  	  \item Codificação da Interface de Usuário
+  	  \item Codificação modulos do SNMP
+  	  \item Codificação modulos de rede
+  	\end{itemize}	
+  		
+  \item Teste de codficação
+  
+  	\begin {itemize}
+  	  \item Teste obtenção de dados
+  	  \item Teste de modulos de rede e SNMP
+  	  \item Teste de Usabilidade (Inteface de Usuário)
+  	\end{itemize}
+  	 
+\end{itemize}
+
+
+% Cronograma
+
+\section{Cronograma}
+
+\begin{table}[!htpb]
+\centering
+
+% definindo o tamanho da fonte para small
+% outros possÃ­veis tamanhos: footnotesize, scriptsize
+\begin{small} 
+  
+% redefinindo o espaÃ§amento das colunas
+\setlength{\tabcolsep}{8pt} 
+
+% \cline Ã© semelhante ao \hline, porÃ©m Ã© possÃ­vel indicar as colunas que terÃ£o essa a linha horizontal
+% \multicolumn{10}{c|}{Meses} indica que dez colunas serÃ£o mescladas e a palavra Meses estarÃ¡ centralizada dentro delas.
+
+\begin{tabular}{|l|c|c|c|c|c|c|c|c|c|c|}\hline
+
+\textbf{Ações / Meses}& Mar & Abr & Mai & Jun & Jul & Ago & Set & Out & Nov &
+Dez
+\\
+\hline
+
+Qualificação & &  & & X &  &  &  &  &  &  \\ \hline
+
+Redação do quadro teórico & &  &  & X & X &  &  &  &  &  \\ \hline
+
+Redação do quadro metodológico & &  &  & X & X & X &  &  &  &  \\ \hline
+
+Desenvolvimento do sistema & &  &  & X & X & X & X & X & X & X \\ \hline
+
+Discussão dos resultados & &  &  & X & X & X & X & X & X & X \\\hline
+
+Pré-banca & &  &  &  &  &  &  &  & X &  \\ \hline
+
+Redação da introdução & &  &  &  &  & X & X & & & \\\hline 
+
+considerações finais & &  &  &  &  & X & X & & & \\\hline
+
+Formatação final & &  &  &  &  &  &  &  & X & X \\ \hline
+
+Banca de defesa & &  &  &  &  &  &  &  &  & X \\ \hline
+
+Correções finais & &  &  &  &  &  &  &  &  & X \\ \hline
+
+Entrega de Capa Dura & &  &  &  &  &  &  &  &  & X \\ \hline
+
+Reuniões & &  &  & X & X & X & X & X & X & X \\ \hline
+
+Revisões Bibliograficas & &  &  & X & X & X & X & X & X & X \\ \hline
+
+Revisão Textual & &  &  & X & X & X & X & X & X & X \\ \hline
+
+
+\end{tabular} 
+\end{small}
+\caption{Cronograma das atividades previstas}
+\label{t_cronograma}
+\end{table} 
+
+
+\section{Orçamento}
+
+% Orçamento
+%	* Listar todas as despesas com o TCC
+%		* Folhas 
+%		* Tintas
+%		* Encadernação
+%		* Internet
+%		* Transporte
+%		* Capa Dura
+%		* Estipular um valor médio ( não ficar muito baixo e nem muito auto )
+
+
+
+\begin{small}
+\begin{tabular}{clr}
+\hline
+ Despesas & Valor Previsto (R\$)   \\
+\hline
+ 	Impressão & R\$ 200,00  \\
+ 	Encadernação & R\$ 90,00  \\
+ 	Impressão Capa Dura  & R\$ 250,00  \\
+ 	Livros  & R\$ 675,00  \\ 
+ 	Transporte & R\$ 600,00 \\
+ 	Ebook  & R\$ 244,00  \\ \hline
+ 	\textbf{Total} & \textbf{R\$ 2.059,00} \\
+\hline
+\end{tabular}
+
+
+\end{small}
+
+
+% Descritivo detalhado
+
+%\par
+
+%------------------------------------------------------------------------------------------------------------------
+
+
+%\par Abordamos neste capítulo o método de pesquisa que será utilizado para a
+% implementação deste projeto de pesquisa possibilitando sua conclusão.
+
+%\par Para \citeonline{Pesquisa_Santos_Candeloro},
+
+%\begin{citacao}
+	%A Expressão “método” remonta à Grécia antiga; methodos (methà + odon),
+	%siginifica “o caminho para se chegar a um fim”, legando-nos o emprego que
+	%hoje fazemos, o sentido de eleger um caminho a ser percorrido para se atingir
+	%um fim. Em se tratando de pesquisa cientifíca, são várias as possibilidades
+	%para executar uma invetigação e o fim almejado é o da comprovação ou refutação
+	%das hipóteses levantadas. Em primeiro lugar, deve-se considerar a área na qual
+	%o acadêmico está inserido e o tema com o qual pretende trabalhar. Após, devese
+	%construir um Referencial Teórico suficiente que permita o enuciado de um
+	%problema de pesquisa e suas respectivas variáveis.(p.69). 
+%\end{citacao}
+
+%\par Acompanhando o autor citado anteriormente, podemos concluir que a
+% metodologia de pesquisa bibliografica fornecera base para o desenvolvimento do projeto, apoiado no problema
+%de pesquisa e na resolução dos mesmos.
+
+% \section{Tipo de Pesquisa}
+% 
+% \par Na implementação do projeto, faz-se necessário a pesquisa que é o meio de 
+% gerar inovação e conhecimento, e através dela buscar respostas, para 
+% \citeonline{Pesquisa_Ciribelli}, A pesquisa torna-se fator chave, para a
+% veracidade e qualidade de um trabalho. Tornando-se assim essencial para o ganho
+% de conhecimento, bem como é de suma importância na instituição educacional.
+  
+% \par Segundo \citeonline{Pesquisa_Padua}, a pesquisa pode ser definida como, a
+% meneira vastosa, como um meio de resolver questões não solvidas, exercendo averiguações e questionamentos através
+% destes meios, podemos assim formar o conhecimento, tornando assim possível o entendimento
+% da existência que é utilizada com base para ação.
+% 
+% \par Com base neste conceito, anteriormente citados, entende-se que a pesquisa é uma forma
+% de resolver problemas de pesquisa e gerar conhecimento, embasado neste princípio, a metodologia
+% aborda, pesquisa bibliográfica, tem como finalidade, apoiar meios de aperfeiçomanentos
+% do processo de elaboração do projeto .
+% 
+% \section{Contexto}
+% 
+% \par Devido ao grande volume de dados trafegados na rede, podemos assim complementa
+% que se faz necessário gerir a rede.
+% 
+% \par Segundo \citeonline{Java_Costa_Avancado}, atualmente identificamos o crescimento das redes, bem como
+% suas estruturas que possui infraestrura complexa. O aumento consideravél de acessos a rede
+% mundial de computadores á um incitamento impulsionando a criação de novos meios de manter
+% operantes as rede dentro das condições esperadas.
+% 
+% \par Para \citeonline{Redes_Mosharraf_Forouza},
+% 
+% \begin{citacao}
+% 	Podemos definir o gerenciamento de redes como a tarefa de testar, monitorar,
+% 	configurar e resolver problemas dos componentes de rede com o obejtivo
+% 	de atender um conjunto de requisitos definidos por uma organização. Esses
+% 	requisitos incluem a operação regular e eficiente de rede, proporcionando a
+% 	qualidade de serviços predefinida para os usuários. Para realizar essa tarefa,
+% 	um sistema de gerenciamento de rede usa hardware,software e seres humanos.(p.693).
+% \end{citacao}
+% 
+% \par Conforme \citeonline{Java_Costa_Avancado}, A adminstração de rede é fundamentada na coleta direta de
+% informação, que constitui toda a estrutura. Com base nesta informações podemos análisar uma
+% ou mais rede de forma dinâmica, fazendo-se compreender através de seu estado atual.
+% 
+% 
+% \section{Resgistros Documentais}
+% 
+% \par Toda á pesquisa do projeto serão fundamentados em livros, artigos
+% científicos e acervos digitais.
+% 
+% \par Para \citeonline{Projetos_Cabanis-brewin},
+% \begin{citacao}
+% 	Documentos incluem planos, registros administrativos, dados técnicos, documentos
+% 	de engenharia e construção, procedimentos, documentos sobre o sistema,
+% 	relatórios e correspondências. Esta seção do plano de gerenciamento do
+% 	projeto identifica os documentos que serão preparados no projeto e estabelece
+% 	a abordagem administrativa, sistemas e procedimentos a serem utilizados para
+% 	gerenciar essa documentação.(p.62)
+% \end{citacao}
+% 
+% \par A documentação é parte do trabalho, que formula os meios usados no decorrer do projeto,
+% facilitando a geração de relatórios e emplementação dos requisitos.
+% 
+% 
+% \subsection{Metodologia de Desenvolvimento}
+% 
+% \par Será utilizado o modelo de processo chamado ICONIX, por ser um modelo de desnvolvimento
+% de software iterativo e incremental.
+% 
+% \par De acordo com \citeonline{UML_Silva_Videira}, O ICONIX trata-se de um método de desenvolvimento
+% de Software, que é divido em quatro pequenos grupo de trabalho, que possuem tempo
+% de execução. As divisões são: Análise de requisitos, análise e desenho preliminar, desenpenho
+% e implementação.
+% 
+% \par Ainda segundo \citeonline{UML_Silva_Videira}, Esta metodologia compoem-se em
+% produzir uma gama de produtos, que descreve com exatidão na perspectiva do sistema, utilizado de meios
+% incrementais e paralelos, apresentando o ponto de vista Dinâmico e Estático.
+% 
+% 
+% 
+% 
+% 
+
+
+
+
+
+
+
