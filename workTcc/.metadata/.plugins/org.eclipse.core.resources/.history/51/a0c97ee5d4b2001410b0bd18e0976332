@@ -1,0 +1,52 @@
+\chapter*{INTRODUÇÃO}
+\addcontentsline{toc}{chapter}{INTRODUÇÃO}
+\stepcounter{chapter} 
+
+\par Segundo \citeonline{Redes_Tanenbaum}, a tecnologia da
+Informação começou a evoluir a partir do século XX (Vinte), que se mostrou mais
+aberta ao desenvolvimento na coleta, tratamento e distribuição da informação. 
+Neste período também nota-se o avanço das tecnologias que foram empregadas
+no setor de comunicação.
+
+%Rever o contexto do No século anterior
+\par Neste mesmo século teve início a nova era da tecnologia da informação, onde
+foram criados métodos de comunicação, a rede de computadores, que surgiu com a
+ARPANET (\textit{Advanced Research Projects Agency Network}) na década de 60,
+uma pequena rede de computadores que seria base da atual rede mundial de computadores.
+
+\par Para \citeonline{Redes_Forouzan}, a rede de computadores é baseada
+na ideia de comunicação dos dados entre pontos de rede, em que os pacotes são
+enviados de um local para o outro. Para o entedimento completo, deve-se ter
+conhecimento sobre as arquiteturas de rede, bem como o funcionamento, as
+transfências e tipos de dados.
+
+\par Na atual rede de computadores, estas tranferências de dados são elevadas,
+ tornando sua gerência cada vez mais complexa. O SNMP entra em ação
+para atender a necessidade de gerenciamento, criando métodos 
+para gerenciar os dispositivos, pontos de acesso e utilização da rede.
+
+%INserir um atrasição que explique a utilização nos pontos de redes
+
+\par Para fazer a transferência de dados na rede de computadores é necessário a
+utilização do protocolo, que o SNMP (\textit{Simple Network Management
+Protocol}) utiliza como base em pilhas para a transfêrencia de dados.
+
+%\par Para \citeonline{Redes_Forouzan}, o conceito primordial da rede de dados é
+% que esta possui a finalidade de transferir dados de um local para outro, denominando-se comunicação de rede. Ao
+%observar este conceito faz-se necessário a compreenção da composição física que
+% possui uma rede, assim faz ciência do meios e modelos de dados, satisfazendo o conhecimento prévio para
+%gerir ou implementar tráfego de dados.
+
+\par Segundo \citeonline{SNMP_Schmidt_Mauro}, torna-se muito complexo
+gerenciar uma rede de computadores na atualidade, bem como manter toda rede em
+plena execução, dentro dos limites aceitáveis. Neste contexto é que o 
+\textit{Simple Network Management Protocol} (SNMP), começa a atuar,
+desde sua criação em 1988, com propósito de fazer o gerenciamento da rede de
+computadores através do IP (\textit{Internet Protocol}), podendo assim realizar
+o gerenciamento de maneira simples, com operações não complexas, facilitando os acessos remotos.
+Partindo deste principio, faz-se necessário a criação de meios que faciletem a gerência da rede,
+ onde pode ser citado como exemplo, a quantidade e o tráfego de dados gerados nas
+empresas. 
+
+%\par A metodologia do projeto será implementada com ICONIX. Para
+% \citeonline{UML_Silva_Videira}, o ICONIX, é um processo para o desenvolvimento de software de maneira prática. 

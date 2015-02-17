@@ -1,0 +1,23 @@
+\chapter{OBJETIVOS}
+
+%\par Este projeto tem como objetivos os tópicos seguintes.
+
+\section{Objetivo Geral}
+
+\par Desenvolver uma aplicação que realize a gerência de redes, com foco na
+configuração e desenpenho, tomando como base para o gerenciamento com o
+protocolo SNMP (\textit{Simple Network Management Protocol}), em portugês Protocolo
+Simples de Gerência de Rede.
+
+\section{Objetivos Específicos}
+
+\par Analisar o tráfego de dados internos da \textit{Local Area Network} (LAN).
+
+\par Utilizar o protocolo IP para obeter configurações dos terminais.
+
+\par Tranferir os dados necessários utilizando o TCP,
+
+\par Identificar o IP que está consumindo maior largura de banda e seus
+respectivos links.
+
+\par Identificar os computadores na rede.

@@ -1,0 +1,43 @@
+\chapter{JUSTIFICATIVA}
+
+
+\par A realização deste trabalho é embasada em que, atualmente, os acessos ás
+informações geram grande tráfego de dados nas redes de computadores, através de
+acesso locais e dentro de rede mundial de computadores, criando a necessidade de
+gerir as transferências de dados pela rede de maneira eficaz e eficiente, com
+ênfase no desempenho e na configuração. A ferramenta de gerência de
+configuração e desempenho de redes de computadores, baseada no SNMP, 
+possibilita o conjunto de novas fontes bibliográficas para pesquisa, com pioneirismo no desenvolvimento de aplicações
+específicas para a administração de redes de computadores, os equipamentos e os
+pacotes e datagramas. \footnote{Datagramas (ou trama ou pacote) é a
+reunião de partes únicas de trantransferência de dados dentro de uma rede de computadores.}
+
+%\par Atualmente, os acesso às informações geram grande tráfego na rede, através
+% de acesso locais e dentro da rede mundial de computadores, criando a necessidade de gerir as transferências
+%de dados pela rede de maneira eficaz e eficiente, com ênfase no desempenho e na
+% configuração.
+
+%\par A ferramenta possibilita o conjunto de novas fontes bibliográficas para
+% pesquisas, com pioneirismo no desenvolvimento de aplicações específicas para a administrar a rede de computadores,
+%os equipamentos e os datagramas \footnote{Datagramas (ou trama ou pacote) é a
+% reunião de partes únicas de trantransferência de dados dentro de uma rede de computadores.}
+
+%\par Este projeto tem o intuito de suprir a dificuldade no gerenciamento de
+% redes, onde grande parte dos profissionais empregam grande parte do tempo para obter resultados mínimos com o
+%desenvolvimento da aplicação, que visa diminir o tempo e os custos gerados na
+% adiministração.
+
+%\par Atualmente devido ao grande volume de dados que, é gerado nas redes,
+%sugiu a necessidade do gerenciamento de rede, que possa ser eficaz no
+%gerenciamento de desempenho e na agerencia de configuração. O trafego de dados
+%nas rede é cada dia mais crescente, com aplicações, portais web e acessos mesmo
+%dentro da rede interna, fazedo-se assim o gerenciamento de rede o único meio de
+%gerir as transferências de pacotes em uma rede.Contudo, o projeto sugere uma
+%aplicação que faça estes gerenciamentos, através de interface amigaveis e
+%simples, possibilitando a analise e o gerenciamento através da rede.
+%Este projeto gera também, uma nova fonte de pesquisa bibliográfica sobre
+%gerenciamento de redes utilizando o SNMP \footnote{Simple Network Management
+%Protocol \cite{snmp_essencial}}, por ser pioneiro\footnote{Aquele que abre
+% caminho através de região mal conhecida. \cite{dic_aurelio}} neste tipo de abordagem.
+
+
