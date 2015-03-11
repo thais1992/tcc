@@ -23,7 +23,7 @@ problema tenha realação e participação com os ambientes locais e regionais.
 
 \section{Tipo de Pesquisa}
 
-\par A pesquisas será qualitativa, para \citeonline{artigo_USP_Pesquisa}, o
+\par A pesquisas será qualitativa, para \citeOnline{artigo_USP_Pesquisa}, o
 método de pesquisa qualitativa presenta método focado em uma direção, durante o
 tempo de desenvolvimento; Este tipo de pesquisa não busca mensurar dados, o foco
 é muito mais amplo e direcionado.
@@ -142,32 +142,8 @@ simples, sem causar dados as outras atividades paralelas.
 	\end{itemize}
   	
   \item Revisão do ICONIX
-  
-  	 \begin{itemize}
- 	 	\item Análise de requisitos
-  		\item Análise e desempenho preliminar
-  		\item Desenhos
-  		\item Implementação
-	\end{itemize}
-	
   \item Codificação do projeto 
-  		
-  	\begin{itemize}
-  	  \item Preparação do Ambiente de Desenvolvimento
-  	  \item Adequação das bibliotecas 
-  	  \item Codificação da Interface de Usuário
-  	  \item Codificação modulos do SNMP
-  	  \item Codificação modulos de rede
-  	\end{itemize}	
-  		
-  \item Teste de codficação
-  
-  	\begin {itemize}
-  	  \item Teste obtenção de dados
-  	  \item Teste de modulos de rede e SNMP
-  	  \item Teste de Usabilidade (Inteface de Usuário)
-  	\end{itemize}
-  	 
+  \item Teste de codficação 
 \end{itemize}
 
 
@@ -188,42 +164,39 @@ simples, sem causar dados as outras atividades paralelas.
 % \cline Ã© semelhante ao \hline, porÃ©m Ã© possÃ­vel indicar as colunas que terÃ£o essa a linha horizontal
 % \multicolumn{10}{c|}{Meses} indica que dez colunas serÃ£o mescladas e a palavra Meses estarÃ¡ centralizada dentro delas.
 
-\begin{tabular}{|l|c|c|c|c|c|c|c|c|c|c|}\hline
+\begin{tabular}{|l|c|c|c|c|c|c|c|c|c|}\hline
 
-\textbf{Ações / Meses}& Mar & Abr & Mai & Jun & Jul & Ago & Set & Out & Nov &
-Dez
+\textbf{Ações / Meses} & Jun & Jul & Ago & Set & Out & Nov & Dez
 \\
 \hline
 
-Qualificação & &  & & X &  &  &  &  &  &  \\ \hline
+Qualificação & X &  &  &  &  &  &  \\ \hline
 
-Quadro teórico & &  &  & X & X &  &  &  &  &  \\ \hline
+Redação do quadro teórico & X & X &  &  &  &  &  \\ \hline
 
-Quadro metodológico & &  &  & X & X & X &  &  &  &  \\ \hline
+Redação do quadro metodológico & X & X & X &  &  &  &  \\ \hline
 
-Desenvolvimento do sistema & &  &  & X & X & X & X & X & X & X \\ \hline
+Desenvolvimento do sistema & X & X & X & X & X & X & X \\ \hline
 
-Discussão dos resultados & &  &  & X & X & X & X & X & X & X \\\hline
+Redação da discussão dos resultados & X & X & X & X & X & X & X \\ \hline
 
-Pré-banca & &  &  &  &  &  &  &  & X &  \\ \hline
+Pré-banca &  &  &  &  &  & X &  \\ \hline
 
-Redação da introdução & &  &  &  &  & X & X & & & \\\hline 
+Redação da introdução e considerações finais &  &  & X & X &  &  & \\\hline
 
-considerações finais & &  &  &  &  & X & X & & & \\\hline
+Formatação final &  &  &  &  &  & X & X \\ \hline
 
-Formatação final & &  &  &  &  &  &  &  & X & X \\ \hline
+Banca de defesa &  &  &  &  &  &  & X \\ \hline
 
-Banca de defesa & &  &  &  &  &  &  &  &  & X \\ \hline
+Correções finais &  &  &  &  &  &  & X \\ \hline
 
-Correções finais & &  &  &  &  &  &  &  &  & X \\ \hline
+Entrega de Capa Dura &  &  &  &  &  &  & X \\ \hline
 
-Entrega de Capa Dura & &  &  &  &  &  &  &  &  & X \\ \hline
+Reuniões & X & X & X & X & X & X & X \\ \hline
 
-Reuniões & &  &  & X & X & X & X & X & X & X \\ \hline
+Revisões Bibliograficas & X & X & X & X & X & X & X \\ \hline
 
-Revisões Bibliograficas & &  &  & X & X & X & X & X & X & X \\ \hline
-
-Revisão Textual & &  &  & X & X & X & X & X & X & X \\ \hline
+Revisão Textual & X & X & X & X & X & X & X \\ \hline
 
 
 \end{tabular} 
